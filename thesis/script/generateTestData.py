@@ -16,7 +16,7 @@ df = pd.DataFrame(columns=columns)
 openai.api_key = 'your key'
 
  print("Reading the SGM file")
- with open("/home/ubuntu/thesis/test/data/input/blind_test.en-fr.en.sgm", "r") as file:
+ with open("/home/ubuntu/thesis/data/input/blind_test.en-fr.en.sgm", "r") as file:
     sgm_content = file.read()
 
  # Parse the SGM content using BeautifulSoup
@@ -117,5 +117,5 @@ try:
 except Exception as e:
     print("Code failed with error: "+str(e))
 
-df.to_csv("/home/ubuntu/thesis/test/data/output/modelOutput.csv")
+df.to_csv("/home/ubuntu/thesis/data/output/modelOutput.csv")
 
