@@ -1,0 +1,8 @@
+export OPENAI_API_KEY="your key"
+openai tools fine_tunes.prepare_data -f /home/ubuntu/thesis/fineTune/data/data.json
+
+openai api fine_tunes.create -t /home/ubuntu/thesis/fineTune/data/data_prepared.jsonl -m davinci
+
+openai api fine_tunes.follow -i <fine-tune model id returned>
+
+openai api fine_tunes.get -i <fine-tune model id returned>
