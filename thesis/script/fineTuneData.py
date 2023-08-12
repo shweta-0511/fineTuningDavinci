@@ -7,4 +7,4 @@ df = data[['syntheticText','translatedText']]
 
 df.rename(columns={'syntheticText': 'prompt', 'translatedText': 'completion'}, inplace=True)
 
-df.to_json('/home/ubuntu/thesis/fineTune/data/data.json', orient='records', lines=True)
+df.to_json('/home/ubuntu/thesis/data/output/data.json', orient='records', lines=True)
