@@ -1,0 +1,1126 @@
+,terminologyEnglish,terminologyFrench,syntheticText,translatedText
+0,symptoms,symptômes,The patient is experiencing symptoms of the illness.,Le patient ressent les symptômes de la maladie.
+1,symptoms,symptômes,The patient is exhibiting symptoms of the illness.,Le patient présente des symptômes de la maladie.
+2,symptoms,symptômes,The patient is exhibiting symptoms of the illness.,Le patient présente des symptômes de la maladie.
+3,symptoms,symptômes,The patient is experiencing symptoms of the illness.,Le patient présente des symptômes de la maladie.
+4,symptoms,symptômes,The patient is exhibiting symptoms of the illness.,Le patient présente des symptômes de la maladie.
+5,fever,fièvre,She had a fever and had to stay in bed all day.,Elle avait de la fièvre et devait rester au lit toute la journée.
+6,fever,fièvre,She had a fever and had to stay home from school.,Elle avait de la fièvre et devait rester à la maison de l'école.
+7,fever,fièvre,I have a fever.,J'ai de la fièvre.
+8,fever,fièvre,She had a fever and had to stay home from school.,Elle avait de la fièvre et dut rester à la maison de l'école.
+9,fever,fièvre,I have a fever.,J'ai de la fièvre.
+10,blood pressure,tension|tension artérielle,My blood pressure is high.,Ma tension artérielle est élevée.
+11,blood pressure,tension|tension artérielle,My blood pressure is high.,Ma pression artérielle est élevée.
+12,blood pressure,tension|tension artérielle,My doctor told me that my blood pressure is too high.,Mon médecin m'a dit que ma tension artérielle est trop élevée.
+13,blood pressure,tension|tension artérielle,My blood pressure is high.,Ma pression sanguine est élevée.
+14,blood pressure,tension|tension artérielle,My blood pressure is high.,Ma tension artérielle est élevée.
+15,difficulty breathing,difficultés pour respirer|difficultés à respirer|difficulté à respirer,I am having difficulty breathing.,Je rencontre des difficultés pour respirer.
+16,difficulty breathing,difficultés pour respirer|difficultés à respirer|difficulté à respirer,I am having difficulty breathing.,J'ai des difficultés pour respirer.
+17,difficulty breathing,difficultés pour respirer|difficultés à respirer|difficulté à respirer,I am having difficulty breathing.,J'ai du mal à respirer.
+18,difficulty breathing,difficultés pour respirer|difficultés à respirer|difficulté à respirer,I am having difficulty breathing.,J'ai du mal à respirer.
+19,difficulty breathing,difficultés pour respirer|difficultés à respirer|difficulté à respirer,I am having difficulty breathing.,Je rencontre des difficultés pour respirer.
+20,cough,toussez|toussent|tousser|tousse|toussé|toux,I have a bad cough.,J'ai une mauvaise toux.
+21,cough,toussez|toussent|tousser|tousse|toussé|toux,I have a bad cough.,J'ai une mauvaise toux.
+22,cough,toussez|toussent|tousser|tousse|toussé|toux,I have a bad cough.,J'ai une mauvaise toux.
+23,cough,toussez|toussent|tousser|tousse|toussé|toux,I have a bad cough.,J'ai une mauvaise toux.
+24,cough,toussez|toussent|tousser|tousse|toussé|toux,I have a bad cough.,J'ai une mauvaise toux.
+25,diabetes,diabètes|diabète,I have been diagnosed with diabetes.,J'ai été diagnostiqué avec le diabète.
+26,diabetes,diabètes|diabète,I have been diagnosed with diabetes.,J'ai été diagnostiqué avec le diabète.
+27,diabetes,diabètes|diabète,I have been diagnosed with diabetes.,J'ai été diagnostiqué avec le diabète.
+28,diabetes,diabètes|diabète,I have been diagnosed with diabetes.,J'ai été diagnostiqué comme diabétique.
+29,diabetes,diabètes|diabète,I have been diagnosed with diabetes.,J'ai été diagnostiqué diabétique.
+30,flu,grippale|grippaux|grippe,I have the flu and I'm feeling really sick.,J'ai la grippe et je me sens vraiment malade.
+31,flu,grippale|grippaux|grippe,I have the flu and need to stay home from work.,J'ai la grippe et je dois rester chez moi au lieu d'aller travailler.
+32,flu,grippale|grippaux|grippe,I have the flu and I'm feeling very sick.,J'ai la grippe et je me sens très malade.
+33,flu,grippale|grippaux|grippe,I have the flu and need to stay home from work.,J'ai la grippe et je dois rester à la maison du travail.
+34,flu,grippale|grippaux|grippe,I have the flu and I'm feeling very sick.,J'ai la grippe et je me sens très malade.
+35,breathing,respirez|respiratoire|respiration,I can feel the air entering my lungs as I take a deep breath of fresh air.,Je peux sentir l'air entrer dans mes poumons lorsque je prends une profonde respiration d'air frais.
+36,breathing,respirez|respiratoire|respiration,I can feel the air entering my lungs as I take a deep breath of fresh air.,Je peux sentir l'air entrer dans mes poumons lorsque je prends une profonde respiration d'air frais.
+37,breathing,respirez|respiratoire|respiration,I can feel the air entering my lungs as I take a deep breath of fresh air.,Je peux sentir l'air entrer dans mes poumons lorsque je prends une profonde respiration d'air frais.
+38,breathing,respirez|respiratoire|respiration,I can feel the air entering my lungs as I take a deep breath of fresh air.,Je peux sentir l'air entrer dans mes poumons alors que je prends une profonde respiration d'air frais.
+39,breathing,respirez|respiratoire|respiration,I can feel the air entering my lungs as I take a deep breath of fresh air.,Je peux sentir l'air entrer dans mes poumons lorsque je prends une profonde respiration d'air frais.
+40,high fever,forte fièvre,She had a high fever and was taken to the hospital.,Elle avait une forte fièvre et elle a été emmenée à l'hôpital.
+41,high fever,forte fièvre,She had a high fever and was taken to the hospital.,Elle avait une forte fièvre et a été prise à l'hôpital.
+42,high fever,forte fièvre,She had a high fever and was taken to the hospital.,Elle avait une forte fièvre et a été amenée à l'hôpital.
+43,high fever,forte fièvre,She had a high fever and was taken to the hospital.,Elle avait une forte fièvre et a été emmenée à l'hôpital.
+44,high fever,forte fièvre,She had a high fever and was taken to the hospital.,Elle avait une forte fièvre et a été emmenée à l'hôpital.
+45,Coronavirus disease,maladie du coronavirus,The coronavirus disease has been spreading rapidly around the world.,La maladie du coronavirus se propage rapidement dans le monde entier.
+46,Coronavirus disease,maladie du coronavirus,The coronavirus disease has caused a global pandemic.,La maladie à coronavirus a provoqué une pandémie mondiale.
+47,Coronavirus disease,maladie du coronavirus,The world is facing a global pandemic due to the Coronavirus disease.,Le monde fait face à une pandémie mondiale à cause de la maladie du Coronavirus.
+48,Coronavirus disease,maladie du coronavirus,The coronavirus disease has been spreading rapidly around the world.,La maladie à coronavirus s'est propagée rapidement autour du monde.
+49,Coronavirus disease,maladie du coronavirus,The coronavirus disease has been spreading rapidly around the world.,La maladie à coronavirus s'est propagée rapidement autour du monde.
+50,COVID-19 pandemic,pandémie de COVID-19,The COVID-19 pandemic has had a devastating impact on the world.,La pandémie de COVID-19 a eu un impact dévastateur sur le monde.
+51,COVID-19 pandemic,pandémie de COVID-19,The COVID-19 pandemic has had a devastating impact on the world.,La pandémie de COVID-19 a eu un impact dévastateur sur le monde.
+52,COVID-19 pandemic,pandémie de COVID-19,The COVID-19 pandemic has had a devastating impact on the world.,La pandémie de COVID-19 a eu un impact dévastateur sur le monde.
+53,COVID-19 pandemic,pandémie de COVID-19,The COVID-19 pandemic has had a devastating impact on the world.,La pandémie de COVID-19 a eu un impact dévastateur sur le monde.
+54,COVID-19 pandemic,pandémie de COVID-19,The COVID-19 pandemic has had a devastating impact on the world.,La pandémie de COVID-19 a eu un impact dévastateur sur le monde.
+55,preparedness,se préparer|préparation,Being prepared is key to success.,Être préparé est la clé du succès.
+56,preparedness,se préparer|préparation,Being prepared is key to success.,Être prêt est la clé du succès.
+57,preparedness,se préparer|préparation,Being prepared is key to success.,Être préparé est la clé du succès.
+58,preparedness,se préparer|préparation,Being prepared is key to success.,être préparé est la clé du succès.
+59,preparedness,se préparer|préparation,Being prepared is the key to success.,Être préparé est la clé du succès.
+60,pneumonia,pneumonie,I was diagnosed with pneumonia.,J'ai été diagnostiqué avec une pneumonie.
+61,pneumonia,pneumonie,I was diagnosed with pneumonia.,J'ai été diagnostiqué avec une pneumonie.
+62,pneumonia,pneumonie,I was diagnosed with pneumonia.,J'ai été diagnostiqué avec une pneumonie.
+63,pneumonia,pneumonie,I was diagnosed with pneumonia.,J'ai été diagnostiqué avec la pneumonie.
+64,pneumonia,pneumonie,I was diagnosed with pneumonia.,J'ai été diagnostiqué avec une pneumonie.
+65,Wuhan,Wuhan,"I recently heard about the outbreak of the coronavirus in Wuhan, China.","J'ai récemment entendu parler de l'éclosion du coronavirus à Wuhan, en Chine."
+66,Wuhan,Wuhan,I heard that Wuhan is a city in China.,J'ai entendu dire que Wuhan est une ville en Chine.
+67,Wuhan,Wuhan,"I recently heard about the outbreak of the coronavirus in Wuhan, China.","J'ai récemment entendu parler de l'éclosion du coronavirus à Wuhan, en Chine."
+68,Wuhan,Wuhan,I heard that Wuhan is a city in China.,J'ai entendu dire que Wuhan est une ville en Chine.
+69,Wuhan,Wuhan,I heard that Wuhan is a city in China.,J'ai entendu dire que Wuhan est une ville en Chine.
+70,Hubei,Hubei,I recently visited the province of Hubei in China.,J'ai récemment visité la province de Hubei en Chine.
+71,Hubei,Hubei,I recently visited the province of Hubei in China.,J'ai récemment visité la province de Hubei en Chine.
+72,Hubei,Hubei,I recently visited the province of Hubei in China.,J'ai récemment visité la province de Hubei en Chine.
+73,Hubei,Hubei,I recently visited the province of Hubei in China.,J'ai récemment visité la province de Hubei en Chine.
+74,Hubei,Hubei,I recently visited the province of Hubei in China.,J'ai récemment visité la province de Hubei en Chine.
+75,causative agent,agent causal|agent responsable,The causative agent caused the reaction.,L'agent causal a provoqué la réaction.
+76,causative agent,agent causal|agent responsable,The causative agent caused the reaction.,L'agent causal a provoqué la réaction.
+77,causative agent,agent causal|agent responsable,The causative agent caused the reaction.,L'agent causal a provoqué la réaction.
+78,causative agent,agent causal|agent responsable,The causative agent caused the problem.,L'agent causal a provoqué le problème.
+79,causative agent,agent causal|agent responsable,The causative agent caused the reaction.,L'agent causal a provoqué la réaction.
+80,novel Coronavirus,coronavirus nouveau|nouveau coronavirus,The novel Coronavirus has caused a global pandemic.,Le nouveau coronavirus a provoqué une pandémie mondiale.
+81,novel Coronavirus,coronavirus nouveau|nouveau coronavirus,The novel Coronavirus has caused a global pandemic.,Le nouveau coronavirus a provoqué une pandémie mondiale.
+82,novel Coronavirus,coronavirus nouveau|nouveau coronavirus,The novel Coronavirus has caused a global pandemic.,Le nouveau coronavirus a causé une pandémie mondiale.
+83,novel Coronavirus,coronavirus nouveau|nouveau coronavirus,The novel Coronavirus has caused a global pandemic.,Le nouveau coronavirus a provoqué une pandémie mondiale.
+84,novel Coronavirus,coronavirus nouveau|nouveau coronavirus,The novel Coronavirus has caused a global pandemic.,Le nouveau coronavirus a provoqué une pandémie mondiale.
+85,Coronavirus,coronavirus,The world is currently facing a global pandemic due to the spread of the Coronavirus.,Le monde est actuellement confronté à une pandémie mondiale en raison de la propagation du Coronavirus.
+86,Coronavirus,coronavirus,The spread of the Coronavirus has caused global concern.,La propagation du Coronavirus a suscité une préoccupation mondiale.
+87,Coronavirus,coronavirus,The recent outbreak of the Coronavirus has caused worldwide concern.,L'éclosion récente du Coronavirus a suscité des inquiétudes à l'échelle mondiale.
+88,Coronavirus,coronavirus,The world is currently facing a global pandemic due to the spread of the Coronavirus.,Le monde fait actuellement face à une pandémie mondiale en raison de la propagation du Coronavirus.
+89,Coronavirus,coronavirus,The world is facing a global pandemic due to the spread of the Coronavirus.,Le monde est confronté à une pandémie mondiale en raison de la propagation du coronavirus.
+90,respiratory syndrome,syndrome respiratoire,She was diagnosed with a severe respiratory syndrome.,Elle a été diagnostiquée avec un syndrome respiratoire sévère.
+91,respiratory syndrome,syndrome respiratoire,She was diagnosed with a severe respiratory syndrome.,Elle a été diagnostiquée avec un syndrome respiratoire sévère.
+92,respiratory syndrome,syndrome respiratoire,I have been diagnosed with a respiratory syndrome.,J'ai été diagnostiqué avec un syndrome respiratoire.
+93,respiratory syndrome,syndrome respiratoire,I have been diagnosed with a respiratory syndrome.,J'ai été diagnostiqué avec un syndrome respiratoire.
+94,respiratory syndrome,syndrome respiratoire,I have been diagnosed with a respiratory syndrome.,J'ai été diagnostiqué avec un syndrome respiratoire.
+95,SARS-CoV-2,SRAS-CoV-2|SARS-CoV-2,"The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+96,SARS-CoV-2,SRAS-CoV-2|SARS-CoV-2,"The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+97,SARS-CoV-2,SRAS-CoV-2|SARS-CoV-2,"The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+98,SARS-CoV-2,SRAS-CoV-2|SARS-CoV-2,"The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+99,SARS-CoV-2,SRAS-CoV-2|SARS-CoV-2,"The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+100,illness,maladie|maladies,I am suffering from an illness.,Je souffre d'une maladie.
+101,illness,maladie|maladies,I am suffering from an illness.,Je souffre d'une maladie.
+102,illness,maladie|maladies,I am suffering from an illness.,Je souffre d'une maladie.
+103,illness,maladie|maladies,I am suffering from an illness.,Je souffre d'une maladie.
+104,illness,maladie|maladies,I am suffering from an illness.,Je souffre d'une maladie.
+105,infection,infections|infectées|infectieuse|infection,I have an infection and need to see a doctor.,J'ai une infection et j'ai besoin de voir un médecin.
+106,infection,infections|infectées|infectieuse|infection,I have an infection and need to see a doctor.,J'ai une infection et j'ai besoin de voir un médecin.
+107,infection,infections|infectées|infectieuse|infection,I have an infection and need to see a doctor.,J'ai une infection et je dois voir un docteur.
+108,infection,infections|infectées|infectieuse|infection,I have an infection and need to see a doctor.,J'ai une infection et j'ai besoin de voir un docteur.
+109,infection,infections|infectées|infectieuse|infection,I have an infection in my throat.,J'ai une infection dans ma gorge.
+110,respiratory,respiratoire,"system
+
+The respiratory system is responsible for bringing oxygen into the body and removing carbon dioxide.",Le système respiratoire est responsable d'apporter de l'oxygène dans le corps et d'éliminer le dioxyde de carbone.
+111,respiratory,respiratoire,"system
+
+The respiratory system is responsible for bringing oxygen into the body and removing carbon dioxide.",Le système respiratoire est responsable de l'apport d'oxygène dans le corps et de l'élimination du dioxyde de carbone.
+112,respiratory,respiratoire,"system
+
+The respiratory system is responsible for bringing oxygen into the body and removing carbon dioxide.",Le système respiratoire est responsable de l'apport en oxygène dans le corps et de l'élimination du dioxyde de carbone.
+113,respiratory,respiratoire,"system
+
+The respiratory system is responsible for bringing oxygen into the body and removing carbon dioxide.",Le système respiratoire est responsable de l'apport en oxygène dans le corps et du retrait du dioxyde de carbone.
+114,respiratory,respiratoire,"system
+
+The respiratory system is responsible for taking in oxygen and expelling carbon dioxide.",Le système respiratoire est responsable de l'absorption d'oxygène et de l'évacuation du dioxyde de carbone.
+115,spread,propagation|propagé|propagée|se propagent|diffusion|se propager|s ' est rapidement propagée|se propage|propagés,The news quickly spread throughout the town.,L'information s'est rapidement répandue dans toute la ville.
+116,spread,propagation|propagé|propagée|se propagent|diffusion|se propager|s ' est rapidement propagée|se propage|propagés,The news quickly spread throughout the town.,Les nouvelles se sont rapidement répandues dans toute la ville.
+117,spread,propagation|propagé|propagée|se propagent|diffusion|se propager|s ' est rapidement propagée|se propage|propagés,The news quickly spread throughout the town.,La nouvelle s'est vite répandue dans toute la ville.
+118,spread,propagation|propagé|propagée|se propagent|diffusion|se propager|s ' est rapidement propagée|se propage|propagés,The news quickly spread throughout the town.,Les nouvelles se sont rapidement répandues dans toute la ville.
+119,spread,propagation|propagé|propagée|se propagent|diffusion|se propager|s ' est rapidement propagée|se propage|propagés,The news quickly spread throughout the town.,La nouvelle s'est rapidement répandue dans toute la ville.
+120,World Health Organization,Organisation mondiale de la Santé|Organisation Mondiale de la Santé|Organisation mondiale de la santé,The World Health Organization is dedicated to improving global health.,L'Organisation mondiale de la santé se consacre à améliorer la santé mondiale.
+121,World Health Organization,Organisation mondiale de la Santé|Organisation Mondiale de la Santé|Organisation mondiale de la santé,The World Health Organization is dedicated to improving global health.,L'Organisation mondiale de la santé s'engage à améliorer la santé mondiale.
+122,World Health Organization,Organisation mondiale de la Santé|Organisation Mondiale de la Santé|Organisation mondiale de la santé,The World Health Organization is dedicated to improving global health.,L'Organisation mondiale de la Santé est dédiée à améliorer la santé mondiale.
+123,World Health Organization,Organisation mondiale de la Santé|Organisation Mondiale de la Santé|Organisation mondiale de la santé,The World Health Organization works to promote global health and well-being.,L'Organisation mondiale de la santé travaille à promouvoir la santé et le bien-être à l'échelle mondiale.
+124,World Health Organization,Organisation mondiale de la Santé|Organisation Mondiale de la Santé|Organisation mondiale de la santé,The World Health Organization works to promote global health and well-being.,L'Organisation mondiale de la santé travaille pour promouvoir la santé et le bien-être mondial.
+125,WHO,OMS,Who is the person you are looking for?,Qui est la personne que vous cherchez?
+126,WHO,OMS,Who is the person you are looking for?,Qui est la personne que vous recherchez ?
+127,WHO,OMS,Who is the person you are looking for?,Quelle est la personne que tu cherches ?
+128,WHO,OMS,Who is it?,Qui est-ce ?
+129,WHO,OMS,Who is the person you are looking for?,Quelle est la personne que vous cherchez ?
+130,pandemic,pandémie,The world is currently facing a global pandemic.,Le monde est actuellement confronté à une pandémie mondiale.
+131,pandemic,pandémie,The world is currently facing a pandemic.,Le monde fait face actuellement à une pandémie.
+132,pandemic,pandémie,The world is currently facing a global pandemic.,Le monde fait actuellement face à une pandémie mondiale.
+133,pandemic,pandémie,The spread of the coronavirus has caused a global pandemic.,La propagation du coronavirus a provoqué une pandémie mondiale.
+134,pandemic,pandémie,The world is currently facing a global pandemic.,Le monde fait actuellement face à une pandémie mondiale.
+135,confirmed cases,cas confirmés|cas a été confirmé,The number of confirmed cases has been increasing.,Le nombre de cas confirmés a augmenté.
+136,confirmed cases,cas confirmés|cas a été confirmé,The number of confirmed cases has been increasing.,Le nombre de cas confirmés a augmenté.
+137,confirmed cases,cas confirmés|cas a été confirmé,The number of confirmed cases has been increasing.,Le nombre de cas confirmés a augmenté.
+138,confirmed cases,cas confirmés|cas a été confirmé,The number of confirmed cases has been increasing.,Le nombre de cas confirmés a augmenté.
+139,confirmed cases,cas confirmés|cas a été confirmé,The number of confirmed cases has been increasing.,Le nombre de cas confirmés a été en augmentation.
+140,deaths,décès,"Sadly, there have been too many deaths in recent years.","Malheureusement, il y a eu trop de morts ces dernières années."
+141,deaths,décès,The number of deaths has increased significantly this year.,Le nombre de décès a significativement augmenté cette année.
+142,deaths,décès,The number of deaths has increased significantly this year.,Le nombre de décès a significativement augmenté cette année.
+143,deaths,décès,The number of deaths has increased significantly this year.,Le nombre de décès a considérablement augmenté cette année.
+144,deaths,décès,The number of deaths has increased significantly this year.,Le nombre de décès a augmenté significativement cette année.
+145,rapid risk assessment,évaluation rapide des risques,We conducted a rapid risk assessment to identify potential hazards.,Nous avons mené une évaluation rapide des risques pour identifier les risques potentiels.
+146,rapid risk assessment,évaluation rapide des risques,We conducted a rapid risk assessment to identify potential hazards.,Nous avons effectué une évaluation rapide des risques pour identifier les risques potentiels.
+147,rapid risk assessment,évaluation rapide des risques,We conducted a rapid risk assessment to identify potential hazards.,Nous avons mené une évaluation rapide des risques pour identifier les risques potentiels.
+148,rapid risk assessment,évaluation rapide des risques,We conducted a rapid risk assessment to identify any potential issues.,Nous avons mené une évaluation rapide des risques pour identifier tout problème potentiel.
+149,rapid risk assessment,évaluation rapide des risques,We conducted a rapid risk assessment to identify potential hazards.,Nous avons effectué une évaluation rapide des risques pour identifier les dangers potentiels.
+150,community transmission,transmission communautaire,The spread of the virus is now occurring through community transmission.,La propagation du virus se produit maintenant par transmission communautaire.
+151,community transmission,transmission communautaire,The spread of the virus is now occurring through community transmission.,La propagation du virus se fait maintenant par transmission communautaire.
+152,community transmission,transmission communautaire,The spread of the virus is now occurring through community transmission.,La propagation du virus se produit maintenant par transmission communautaire.
+153,community transmission,transmission communautaire,The spread of the virus is now occurring through community transmission.,La propagation du virus se produit maintenant par transmission communautaire.
+154,community transmission,transmission communautaire,The spread of the virus is now occurring through community transmission.,La propagation du virus se produit maintenant par transmission communautaire.
+155,outbreak,épidémie|épidémies|épidémique,There has been an outbreak of a contagious disease.,Il y a eu une éclosion d'une maladie contagieuse.
+156,outbreak,épidémie|épidémies|épidémique,There has been an outbreak of a new virus.,Il y a eu une épidémie d'un nouveau virus.
+157,outbreak,épidémie|épidémies|épidémique,There has been an outbreak of the flu in the area.,Il y a eu une éclosion de la grippe dans la région.
+158,outbreak,épidémie|épidémies|épidémique,The outbreak of the virus caused widespread panic.,L'éclosion du virus a provoqué une panique générale.
+159,outbreak,épidémie|épidémies|épidémique,There has been an outbreak of a new virus in the city.,Il y a eu une épidémie d'un nouveau virus dans la ville.
+160,SARS,SRAS|SARS,The outbreak of SARS has caused much concern around the world.,L'éclosion de la SRAS a suscité beaucoup d'inquiétude autour du monde.
+161,SARS,SRAS|SARS,The outbreak of SARS caused widespread panic across the world.,L'éclosion du SRAS a causé un panique générale dans le monde entier.
+162,SARS,SRAS|SARS,The outbreak of SARS caused a global health crisis.,L'éclosion de SRAS a provoqué une crise sanitaire mondiale.
+163,SARS,SRAS|SARS,The outbreak of SARS caused widespread panic around the world.,L'éclosion du SRAS a provoqué une panique généralisée dans le monde entier.
+164,SARS,SRAS|SARS,The outbreak of SARS in 2003 caused widespread panic.,L'épidémie de SRAS en 2003 a provoqué une panique générale.
+165,infected,infecté|infectée|infectés|infectées|infectait|infection,He was infected with a virus.,Il a été infecté par un virus.
+166,infected,infecté|infectée|infectés|infectées|infectait|infection,He was infected with a virus.,Il a été infecté par un virus.
+167,infected,infecté|infectée|infectés|infectées|infectait|infection,He was infected with a virus.,Il a été infecté par un virus.
+168,infected,infecté|infectée|infectés|infectées|infectait|infection,He was infected with a virus.,Il a été infecté par un virus.
+169,infected,infecté|infectée|infectés|infectées|infectait|infection,He was infected with a virus.,Il a été infecté par un virus.
+170,virus,virus|viral|virale|virales,I think I might have a virus on my computer.,Je pense que j'ai peut-être un virus sur mon ordinateur.
+171,virus,virus|viral|virale|virales,I think my computer has a virus.,Je pense que mon ordinateur a un virus.
+172,virus,virus|viral|virale|virales,I think my computer has a virus.,Je pense que mon ordinateur a un virus.
+173,virus,virus|viral|virale|virales,I think I may have caught a virus.,Je pense que j'ai pu attraper un virus.
+174,virus,virus|viral|virale|virales,I think my computer has a virus.,Je pense que mon ordinateur a un virus.
+175,SARS-CoV,SARS-CoV,"-2
+
+The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+176,SARS-CoV,SARS-CoV,"-2
+
+The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+177,SARS-CoV,SARS-CoV,"-2
+
+The novel coronavirus responsible for the current pandemic is called SARS-CoV-2.",Le nouveau coronavirus responsable de la pandémie actuelle s'appelle SARS-CoV-2.
+178,SARS-CoV,SARS-CoV,"-2
+
+The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+179,SARS-CoV,SARS-CoV,"-2
+
+The novel coronavirus, SARS-CoV-2, has caused a global pandemic.","Le nouveau coronavirus, SARS-CoV-2, a provoqué une pandémie mondiale."
+180,prognosis,pronostic,The prognosis for the patient's recovery is good.,Le pronostic de la récupération du patient est bon.
+181,prognosis,pronostic,The prognosis for the patient's recovery is good.,Le pronostic de récupération du patient est bon.
+182,prognosis,pronostic,The prognosis is not good.,Le pronostic n'est pas bon.
+183,prognosis,pronostic,The prognosis for the patient's recovery is good.,Le pronostic pour la guérison du patient est bon.
+184,prognosis,pronostic,The prognosis for the patient's recovery is good.,Le pronostic de rétablissement du patient est bon.
+185,epidemic,épidémie|épidémique|épidémiques,The flu has become an epidemic in the city.,La grippe est devenue une épidémie dans la ville.
+186,epidemic,épidémie|épidémique|épidémiques,The flu has become an epidemic this year.,La grippe a devenu une épidémie cette année.
+187,epidemic,épidémie|épidémique|épidémiques,The flu has become an epidemic this year.,La grippe est devenue une épidémie cette année.
+188,epidemic,épidémie|épidémique|épidémiques,The flu has become an epidemic this winter.,La grippe est devenue une épidémie cet hiver.
+189,epidemic,épidémie|épidémique|épidémiques,The flu has become an epidemic this winter.,La grippe est devenue une épidémie cet hiver.
+190,pathogen,pathogènes|pathogène,Pathogens can cause serious illnesses in humans.,Les pathogènes peuvent causer de graves maladies chez les humains.
+191,pathogen,pathogènes|pathogène,Pathogens can cause serious illnesses in humans.,Les pathogènes peuvent causer de graves maladies chez l'homme.
+192,pathogen,pathogènes|pathogène,Pathogens can cause serious illnesses in humans.,Les pathogènes peuvent provoquer des maladies sérieuses chez l'homme.
+193,pathogen,pathogènes|pathogène,Pathogens can cause serious illnesses in humans.,Les agents pathogènes peuvent causer de graves maladies chez l'être humain.
+194,pathogen,pathogènes|pathogène,Pathogens can cause serious illnesses in humans.,Les agents pathogènes peuvent causer des maladies graves chez l'homme.
+195,common cold,rhume commun|rhumes communs|rhume,I have a common cold.,J'ai un rhume commun.
+196,common cold,rhume commun|rhumes communs|rhume,I caught a common cold last week.,J'ai attrapé un rhume banal la semaine dernière.
+197,common cold,rhume commun|rhumes communs|rhume,I have a common cold.,J'ai un rhume commun.
+198,common cold,rhume commun|rhumes communs|rhume,I have a common cold.,J'ai un rhume.
+199,common cold,rhume commun|rhumes communs|rhume,I have a common cold.,J'ai un rhume courant.
+200,transmission,transmission|se transmettre|transmis,The transmission of the car was not working properly.,La transmission de la voiture ne fonctionnait pas correctement.
+201,transmission,transmission|se transmettre|transmis,The transmission of the car was not working properly.,La transmission de la voiture ne fonctionnait pas correctement.
+202,transmission,transmission|se transmettre|transmis,The transmission of the car was not working properly.,La transmission de la voiture ne fonctionnait pas correctement.
+203,transmission,transmission|se transmettre|transmis,The transmission of the car was not working properly.,La transmission de la voiture ne fonctionnait pas correctement.
+204,transmission,transmission|se transmettre|transmis,The transmission of the car was not working properly.,La transmission de la voiture ne fonctionnait pas correctement.
+205,global health emergency,urgence sanitaire mondiale,The World Health Organization has declared a global health emergency.,L'Organisation mondiale de la santé a déclaré une urgence sanitaire mondiale.
+206,global health emergency,urgence sanitaire mondiale,The World Health Organization has declared a global health emergency.,L'Organisation mondiale de la santé a déclaré une urgence sanitaire mondiale.
+207,global health emergency,urgence sanitaire mondiale,The World Health Organization has declared a global health emergency.,L'Organisation mondiale de la santé a déclaré une urgence sanitaire mondiale.
+208,global health emergency,urgence sanitaire mondiale,The World Health Organization has declared a global health emergency.,L'Organisation mondiale de la santé a déclaré une urgence sanitaire mondiale.
+209,global health emergency,urgence sanitaire mondiale,The World Health Organization has declared a global health emergency.,L'Organisation mondiale de la Santé a déclaré une urgence sanitaire mondiale.
+210,onset,début,The onset of winter was marked by a heavy snowfall.,L'arrivée de l'hiver a été marquée par une forte chute de neige.
+211,onset,début,The onset of the storm was sudden.,L'arrivée de l'orage a été soudaine.
+212,onset,début,The onset of winter was marked by a sudden drop in temperature.,L'arrivée de l'hiver a été marquée par une brusque baisse de température.
+213,onset,début,The onset of winter brought colder temperatures.,L'arrivée de l'hiver a apporté des températures plus froides.
+214,onset,début,The onset of winter brought cold temperatures.,L'arrivée de l'hiver a apporté des températures froides.
+215,incubation period,période d' incubation,The incubation period for the virus is two weeks.,La période d'incubation du virus est de deux semaines.
+216,incubation period,période d' incubation,The incubation period for the virus is two weeks.,La période d'incubation du virus est de deux semaines.
+217,incubation period,période d' incubation,The incubation period for the virus is two weeks.,La période d'incubation du virus est de deux semaines.
+218,incubation period,période d' incubation,The incubation period for the virus is two weeks.,Période d'incubation du virus est de deux semaines.
+219,incubation period,période d' incubation,The incubation period for the virus is two weeks.,Le temps d'incubation du virus est de deux semaines.
+220,RNA,ARN,RNA is a molecule that helps to carry out instructions from DNA.,L'ARN est une molécule qui aide à exécuter les instructions de l'ADN.
+221,RNA,ARN,RNA is a molecule that helps to carry genetic information.,L'ARN est une molécule qui aide à transporter des informations génétiques.
+222,RNA,ARN,RNA is a molecule that helps to carry genetic information.,L'ARN est une molécule qui aide à transporter l'information génétique.
+223,RNA,ARN,RNA is a molecule that helps to carry genetic information.,L'ARN est une molécule qui aide à transporter des informations génétiques.
+224,RNA,ARN,RNA is a molecule that helps to carry out instructions from DNA.,L'ARN est une molécule qui aide à exécuter les instructions de l'ADN.
+225,infect,infectées|infecter,He was infected with a virus.,Il a été infecté par un virus.
+226,infect,infectées|infecter,He was infected with a virus.,Il était infecté par un virus.
+227,infect,infectées|infecter,He was infected with a virus.,Il a été infecté par un virus.
+228,infect,infectées|infecter,I have been infected with a virus.,J'ai été infecté par un virus.
+229,infect,infectées|infecter,I have been infected with a virus.,J'ai été infecté avec un virus.
+230,intermediate host,hôtes intermédiaires|hôte intermédiaire,The intermediate host is essential for the completion of the life cycle.,L'hôte intermédiaire est essentiel pour le complètement du cycle de vie.
+231,intermediate host,hôtes intermédiaires|hôte intermédiaire,The intermediate host is essential for the completion of the life cycle.,L'hôte intermédiaire est essentiel pour le complètement du cycle de vie.
+232,intermediate host,hôtes intermédiaires|hôte intermédiaire,The intermediate host is essential for the completion of the life cycle.,L'hôte intermédiaire est essentiel pour la complétion du cycle de vie.
+233,intermediate host,hôtes intermédiaires|hôte intermédiaire,The intermediate host is essential for the completion of the life cycle.,L'hôte intermédiaire est essentiel pour achever le cycle de vie.
+234,intermediate host,hôtes intermédiaires|hôte intermédiaire,The intermediate host is essential for the completion of the life cycle.,L'hôte intermédiaire est essentiel pour la fin du cycle de vie.
+235,pangolin,pangolins|pangolin,The pangolin is a unique animal with its scaly armor.,L'écailleux est un animal unique avec son armure d'écailles.
+236,pangolin,pangolins|pangolin,The pangolin is an unusual animal with its scaly armor.,L'ornithorynque est un animal inhabituel avec sa carapace écailleuse.
+237,pangolin,pangolins|pangolin,The pangolin is an unusual animal with its scaly armor.,Le pangolin est un animal inhabituel avec son armure squameuse.
+238,pangolin,pangolins|pangolin,The pangolin is an endangered species.,Le pangolin est une espèce en danger.
+239,pangolin,pangolins|pangolin,The pangolin is a unique animal with its scaly armor.,L'écureuil pangolin est un animal unique avec sa carapace squameuse.
+240,disinfectant,désinfectants|désinfectant,I used a disinfectant to clean the countertops.,J'ai utilisé un désinfectant pour nettoyer les plans de travail.
+241,disinfectant,désinfectants|désinfectant,I used a disinfectant to clean the countertops.,J'ai utilisé un désinfectant pour nettoyer les plans de travail.
+242,disinfectant,désinfectants|désinfectant,I used a disinfectant to clean the surfaces in my house.,J'ai utilisé un désinfectant pour nettoyer les surfaces dans ma maison.
+243,disinfectant,désinfectants|désinfectant,I used a disinfectant to clean the countertops.,J'ai utilisé un désinfectant pour nettoyer les comptoirs.
+244,disinfectant,désinfectants|désinfectant,I used a disinfectant to clean the countertops.,J'ai utilisé un désinfectant pour nettoyer les comptoirs.
+245,immunity,immunité,I have immunity from the disease.,J'ai l'immunité contre la maladie.
+246,immunity,immunité,I have immunity from the disease.,J'ai l'immunité contre la maladie.
+247,immunity,immunité,I have immunity from the disease.,J'ai une immunité contre la maladie.
+248,immunity,immunité,I have immunity from the disease.,J'ai l'immunité contre la maladie.
+249,immunity,immunité,I have immunity from the flu this year.,J'ai une immunité contre la grippe cette année.
+250,novel virus,nouveau virus,A new virus has been discovered.,Un nouveau virus a été découvert.
+251,novel virus,nouveau virus,A new virus has been discovered.,Un nouveau virus a été découvert.
+252,novel virus,nouveau virus,A new virus has been discovered.,Un nouveau virus a été découvert.
+253,novel virus,nouveau virus,A new virus has been discovered.,Un nouveau virus a été découvert.
+254,novel virus,nouveau virus,A new virus has been discovered.,Un nouveau virus a été découvert.
+255,immune system,système immunitaire,The immune system is the body's defense against disease and infection.,Le système immunitaire est la défense de l'organisme contre les maladies et les infections.
+256,immune system,système immunitaire,The immune system is the body's defense against disease and infection.,Le système immunitaire est la défense du corps contre les maladies et les infections.
+257,immune system,système immunitaire,The immune system is the body's defense against disease and infection.,Le système immunitaire est la défense de l'organisme contre les maladies et les infections.
+258,immune system,système immunitaire,The immune system is the body's defense against disease and infection.,Le système immunitaire est la défense du corps contre la maladie et l'infection.
+259,immune system,système immunitaire,The immune system is the body's defense against disease and infection.,Le système immunitaire est la défense de l'organisme contre les maladies et les infections.
+260,viral infection,infection virale,I have a viral infection.,J'ai une infection virale.
+261,viral infection,infection virale,I have a viral infection.,J'ai une infection virale.
+262,viral infection,infection virale,I have a viral infection.,J'ai une infection virale.
+263,viral infection,infection virale,I have a viral infection.,J'ai une infection virale.
+264,viral infection,infection virale,I have a viral infection.,J'ai une infection virale.
+265,lungs,poumons,I can feel my lungs filling with air.,Je peux sentir mes poumons se remplir d'air.
+266,lungs,poumons,The lungs are essential for breathing.,Les poumons sont essentiels pour respirer.
+267,lungs,poumons,The lungs are essential for breathing.,Les poumons sont essentiels pour respirer.
+268,lungs,poumons,The lungs are essential for breathing.,Les poumons sont essentiels pour respirer.
+269,lungs,poumons,The lungs are essential for breathing.,Les poumons sont essentiels pour respirer.
+270,multi-organ failure,défaillance multiviscérale|défaillance de plusieurs organes,She was admitted to the hospital due to multi-organ failure.,Elle a été admise à l'hôpital en raison d'une insuffisance organique multiple.
+271,multi-organ failure,défaillance multiviscérale|défaillance de plusieurs organes,Patient is suffering from multi-organ failure.,Le patient souffre d'une insuffisance multi-organe.
+272,multi-organ failure,défaillance multiviscérale|défaillance de plusieurs organes,Patient is suffering from multi-organ failure.,Le patient souffre de défaillances multi-organes.
+273,multi-organ failure,défaillance multiviscérale|défaillance de plusieurs organes,Patients suffering from multi-organ failure often have a poor prognosis.,Les patients souffrant de défaillances multi-organes ont souvent un pronostic sombre.
+274,multi-organ failure,défaillance multiviscérale|défaillance de plusieurs organes,Patient is in critical condition due to multi-organ failure.,Le patient est en état critique en raison d'une insuffisance d'organes multiples.
+275,be infected,être infecté|est infecté|être infectées|être infectés,I have been infected.,J'ai été infecté.
+276,be infected,être infecté|est infecté|être infectées|être infectés,I have been infected.,J'ai été infecté.
+277,be infected,être infecté|est infecté|être infectées|être infectés,I have been infected.,J'ai été infecté.
+278,be infected,être infecté|est infecté|être infectées|être infectés,I have been infected.,J'ai été infecté.
+279,be infected,être infecté|est infecté|être infectées|être infectés,I have been infected.,J'ai été infecté.
+280,the incubation period,la période d' incubation,The incubation period is the time between exposure to a virus and the onset of symptoms.,La période d'incubation est le temps entre l'exposition à un virus et l'apparition des symptômes.
+281,the incubation period,la période d' incubation,The incubation period is the time between exposure to a virus and the onset of symptoms.,Le période d'incubation est la période entre l'exposition à un virus et l'apparition des symptômes.
+282,the incubation period,la période d' incubation,The incubation period is the time between exposure to a virus and the onset of symptoms.,Le période d'incubation est le temps entre l'exposition à un virus et l'apparition des symptômes.
+283,the incubation period,la période d' incubation,The incubation period is the time between exposure to a virus and the onset of symptoms.,La période d'incubation est le temps entre l'exposition à un virus et l'apparition des symptômes.
+284,the incubation period,la période d' incubation,The incubation period is the time between exposure to a virus and the onset of symptoms.,La période d'incubation est le temps entre l'exposition à un virus et l'apparition des symptômes.
+285,quarantine,mise en quarantaine|placer en quarantaine|quarantaine|quarantaines,I have been in quarantine for two weeks.,J'ai été en quarantaine pendant deux semaines.
+286,quarantine,mise en quarantaine|placer en quarantaine|quarantaine|quarantaines,I have been in quarantine for two weeks.,J'ai été en quarantaine depuis deux semaines.
+287,quarantine,mise en quarantaine|placer en quarantaine|quarantaine|quarantaines,I have been in quarantine for two weeks now.,J'ai été en quarantaine pendant deux semaines maintenant.
+288,quarantine,mise en quarantaine|placer en quarantaine|quarantaine|quarantaines,I have been in quarantine for two weeks.,J'ai été en quarantaine pendant deux semaines.
+289,quarantine,mise en quarantaine|placer en quarantaine|quarantaine|quarantaines,I have been in quarantine for two weeks.,J'ai été en quarantaine pendant deux semaines.
+290,symptom,symptômes|symptôme,"I have a headache, which is a symptom of a cold.","J'ai mal à la tête, ce qui est un symptôme d'un rhume."
+291,symptom,symptômes|symptôme,"I have a headache, which is a symptom of a cold.","J'ai mal à la tête, ce qui est un symptôme d'un rhume."
+292,symptom,symptômes|symptôme,"I have a headache, which is a symptom of a cold.","J'ai mal à la tête, qui est un symptôme d'un rhume."
+293,symptom,symptômes|symptôme,"I have a headache, which is a symptom of a cold.","J'ai mal à la tête, ce qui est un symptôme d'un rhume."
+294,symptom,symptômes|symptôme,"I have a headache, which is a symptom of a cold.","J'ai mal à la tête, ce qui est un symptôme d'un rhume."
+295,dry cough,toux sèche,I have a dry cough.,J'ai une toux sèche.
+296,dry cough,toux sèche,I have a dry cough.,J'ai une toux sèche.
+297,dry cough,toux sèche,I have a dry cough.,J'ai une toux sèche.
+298,dry cough,toux sèche,I have a dry cough.,J'ai une toux sèche.
+299,dry cough,toux sèche,I have a dry cough.,J'ai une toux sèche.
+300,shortness of breath,essoufflé ( e )|essoufflement,I am experiencing shortness of breath.,Je ressens un court-souffle.
+301,shortness of breath,essoufflé ( e )|essoufflement,I am experiencing shortness of breath.,Je ressens une sensation de court souffle.
+302,shortness of breath,essoufflé ( e )|essoufflement,I am experiencing shortness of breath.,J'éprouve une sensation d'oppression respiratoire.
+303,shortness of breath,essoufflé ( e )|essoufflement,I am experiencing shortness of breath.,Je ressens de la difficulté à respirer.
+304,shortness of breath,essoufflé ( e )|essoufflement,I am experiencing shortness of breath.,Je ressens de la difficulté à respirer.
+305,sore throat,mal de gorge|maux de gorge,I have a sore throat.,J'ai mal à la gorge.
+306,sore throat,mal de gorge|maux de gorge,I have a sore throat.,J'ai mal à la gorge.
+307,sore throat,mal de gorge|maux de gorge,I have a sore throat.,J'ai mal à la gorge.
+308,sore throat,mal de gorge|maux de gorge,I have a sore throat.,J'ai mal à la gorge.
+309,sore throat,mal de gorge|maux de gorge,I have a sore throat.,J'ai mal à la gorge.
+310,septic shock,chocs septiques|choc septique,She went into septic shock and had to be rushed to the hospital.,Elle est entrée en choc septique et a dû être précipitée à l'hôpital.
+311,septic shock,chocs septiques|choc septique,She was rushed to the hospital after going into septic shock.,Elle a été transportée à l'hôpital après avoir fait un choc septique.
+312,septic shock,chocs septiques|choc septique,She went into septic shock and had to be rushed to the hospital.,Elle est allée en choc septique et a dû être transportée d'urgence à l'hôpital.
+313,septic shock,chocs septiques|choc septique,She was rushed to the hospital after going into septic shock.,Elle a été prise en urgence à l'hôpital après avoir entré en choc septique.
+314,septic shock,chocs septiques|choc septique,She was rushed to the hospital after going into septic shock.,Elle a été emmenée à l'hôpital après avoir fait un choc septique.
+315,ventilation,ventilatoire|ventilation,Proper ventilation is essential for a healthy home.,Une ventilation adéquate est essentielle pour une maison saine.
+316,ventilation,ventilatoire|ventilation,Proper ventilation is essential for a healthy home.,Une ventilation adéquate est essentielle pour un foyer sain.
+317,ventilation,ventilatoire|ventilation,Proper ventilation is essential for a healthy home.,Une ventilation adéquate est essentielle pour un foyer sain.
+318,ventilation,ventilatoire|ventilation,Proper ventilation is essential for a healthy home.,L'aération adéquate est essentielle pour une maison saine.
+319,ventilation,ventilatoire|ventilation,Proper ventilation is essential for a healthy home.,La ventilation adéquate est essentielle pour une maison saine.
+320,asymptomatic,asymptomatique,"She was asymptomatic, so she didn't realize she had the virus.","Elle était asymptomatique, donc elle ne s'est pas rendu compte qu'elle avait le virus."
+321,asymptomatic,asymptomatique,"She was asymptomatic, so she didn't have any symptoms of the illness.","Elle était asymptomatique, donc elle n'avait aucun symptôme de la maladie."
+322,asymptomatic,asymptomatique,"She was asymptomatic, so she didn't know she had the virus.","Elle était asymptomatique, alors elle ne savait pas qu'elle avait le virus."
+323,asymptomatic,asymptomatique,"She was asymptomatic, so she didn't have any symptoms of the illness.","Elle était asymptomatique, donc elle n'avait aucun symptôme de la maladie."
+324,asymptomatic,asymptomatique,"She was asymptomatic, so she didn't have any symptoms of the illness.","Elle était asymptomatique, donc elle n'avait aucun symptôme de la maladie."
+325,white blood cell count,numération leucocytaire,The doctor ordered a white blood cell count to check for infection.,Le médecin a ordonné un comptage des globules blancs pour vérifier une infection.
+326,white blood cell count,numération leucocytaire,The doctor ordered a white blood cell count to check for infection.,Le médecin a demandé une numération des globules blancs pour vérifier une infection.
+327,white blood cell count,numération leucocytaire,The doctor ordered a white blood cell count to check for any abnormalities.,Le médecin a ordonné un comptage des globules blancs pour vérifier toute anomalie.
+328,white blood cell count,numération leucocytaire,The doctor ordered a white blood cell count to check for infection.,Le médecin a ordonné un comptage leucocytaire pour vérifier une éventuelle infection.
+329,white blood cell count,numération leucocytaire,The doctor ordered a white blood cell count to assess the patient's health.,Le médecin a ordonné un comptage des globules blancs pour évaluer la santé du patient.
+330,acute respiratory distress syndrome,syndrome de détresse respiratoire aiguë|syndrome de détresse respiratoire aigu,She was diagnosed with acute respiratory distress syndrome and had to be hospitalized immediately.,Elle a été diagnostiquée avec un syndrome d'insuffisance respiratoire aiguë et a dû être hospitalisée immédiatement.
+331,acute respiratory distress syndrome,syndrome de détresse respiratoire aiguë|syndrome de détresse respiratoire aigu,She was diagnosed with acute respiratory distress syndrome and had to be hospitalized immediately.,Elle a été diagnostiquée avec le syndrome de détresse respiratoire aiguë et a dû être à l'hôpital immédiatement.
+332,acute respiratory distress syndrome,syndrome de détresse respiratoire aiguë|syndrome de détresse respiratoire aigu,She was diagnosed with acute respiratory distress syndrome and had to be hospitalized.,Elle a été diagnostiquée avec le syndrome de détresse respiratoire aiguë et a dû être hospitalisée.
+333,acute respiratory distress syndrome,syndrome de détresse respiratoire aiguë|syndrome de détresse respiratoire aigu,She was diagnosed with acute respiratory distress syndrome and had to be hospitalized immediately.,Elle a été diagnostiquée avec un syndrome de détresse respiratoire aiguë et a dû être hospitalisée immédiatement.
+334,acute respiratory distress syndrome,syndrome de détresse respiratoire aiguë|syndrome de détresse respiratoire aigu,She was diagnosed with acute respiratory distress syndrome and had to be hospitalized immediately.,Elle a été diagnostiquée avec un syndrome de détresse respiratoire aiguë et a dû être hospitalisée immédiatement.
+335,ARDS,SDRA,Patients with ARDS often require intensive medical care.,Les patients atteints d'une ARDS nécessitent souvent des soins médicaux intensifs.
+336,ARDS,SDRA,She was diagnosed with Acute Respiratory Distress Syndrome (ARDS).,Elle a été diagnostiquée avec le syndrome d'insuffisance respiratoire aiguë (SRRA).
+337,ARDS,SDRA,She was diagnosed with Acute Respiratory Distress Syndrome (ARDS).,Elle a été diagnostiquée avec le syndrome d'insuffisance respiratoire aiguë (SRAS).
+338,ARDS,SDRA,She was diagnosed with Acute Respiratory Distress Syndrome (ARDS).,Elle a été diagnostiquée avec un Syndrome d'Insuffisance Respiratoire Aigu (S.I.R.A).
+339,ARDS,SDRA,She was diagnosed with Acute Respiratory Distress Syndrome (ARDS).,Elle a été diagnostiquée avec le syndrome de détresse respiratoire aiguë (SRAA).
+340,surface,superficielles|surface,"area
+
+The surface area of the object was measured.",La surface de l'objet a été mesurée.
+341,surface,superficielles|surface,"area
+
+The surface area of the object is large.",La surface de l'objet est grande.
+342,surface,superficielles|surface,"area
+
+The surface area of the object is large.",La superficie de l'objet est grande.
+343,surface,superficielles|surface,"area
+
+The surface area of the object was measured.",La superficie de l'objet a été mesurée.
+344,surface,superficielles|surface,"area
+
+The surface area of the object is large.",La surface de l'objet est grande.
+345,pathology,pathologie,"Pathology is the study of diseases and their causes, processes, development, and effects.","La pathologie est l'étude des maladies et de leurs causes, processus, développement et conséquences."
+346,pathology,pathologie,"Pathology is the study of diseases and their causes, processes, development, and effects.","La pathologie est l'étude des maladies et de leurs causes, des processus, du développement et des effets."
+347,pathology,pathologie,"Pathology is the study of diseases and their causes, processes, and effects.","La pathologie est l'étude des maladies et de leurs causes, processus et effets."
+348,pathology,pathologie,"Pathology is the study of diseases and their causes, processes, and effects.","La pathologie est l'étude des maladies et de leurs causes, processus et effets."
+349,pathology,pathologie,"Pathology is the study of diseases and their causes, processes, development, and effects.","La pathologie est l'étude des maladies et de leurs causes, processus, développement et effets."
+350,medicine,médicament|médicaments,I need to take my medicine every day.,J'ai besoin de prendre mes médicaments tous les jours.
+351,medicine,médicament|médicaments,I need to take my medicine every day.,J'ai besoin de prendre mes médicaments chaque jour.
+352,medicine,médicament|médicaments,I need to take my medicine every day.,J'ai besoin de prendre mes médicaments tous les jours.
+353,medicine,médicament|médicaments,I need to take my medicine every day.,J'ai besoin de prendre mes médicaments tous les jours.
+354,medicine,médicament|médicaments,I need to take my medicine every day.,J'ai besoin de prendre mes médicaments tous les jours.
+355,vaccines,vaccins,Vaccines are an important tool for protecting people from dangerous diseases.,Les vaccins sont un outil important pour protéger les gens des maladies dangereuses.
+356,vaccines,vaccins,Vaccines are an important tool for protecting people from dangerous diseases.,Les vaccins sont un outil important pour protéger les gens des maladies dangereuses.
+357,vaccines,vaccins,Vaccines are an important tool in protecting people from dangerous diseases.,Les vaccins sont un outil important pour protéger les gens des maladies dangereuses.
+358,vaccines,vaccins,Vaccines are an important tool in helping to protect people from dangerous illnesses.,Les vaccins sont un outil important pour aider à protéger les gens des maladies dangereuses.
+359,vaccines,vaccins,Vaccines are an important part of keeping our population healthy.,Les vaccins sont une partie importante de la préservation de la santé de notre population.
+360,mechanical ventilation,ventilation mécanique,The patient was put on mechanical ventilation to help them breathe.,Le patient a été mis sous ventilation mécanique pour l'aider à respirer.
+361,mechanical ventilation,ventilation mécanique,The patient was put on mechanical ventilation to help them breathe.,Le patient a été mis sous ventilation mécanique pour l'aider à respirer.
+362,mechanical ventilation,ventilation mécanique,The patient was put on mechanical ventilation to help them breathe.,Le patient a été mis sous ventilation mécanique pour l'aider à respirer.
+363,mechanical ventilation,ventilation mécanique,The patient was put on mechanical ventilation to help them breathe.,Le patient a été mis sous ventilation mécanique pour l'aider à respirer.
+364,mechanical ventilation,ventilation mécanique,The patient was put on mechanical ventilation to help them breathe.,Le patient a été mis sous ventilation mécanique pour l'aider à respirer.
+365,antiviral drug,traitement antiviral|médicaments antiviraux|médicament antiviral,Antiviral drugs are used to treat infections caused by viruses.,Les médicaments antiviraux sont utilisés pour traiter les infections causées par les virus.
+366,antiviral drug,traitement antiviral|médicaments antiviraux|médicament antiviral,Antiviral drugs are used to treat infections caused by viruses.,Les médicaments antiviraux sont utilisés pour traiter les infections causées par des virus.
+367,antiviral drug,traitement antiviral|médicaments antiviraux|médicament antiviral,Antiviral drugs are used to treat infections caused by viruses.,Les médicaments antiviraux sont utilisés pour traiter les infections causées par les virus.
+368,antiviral drug,traitement antiviral|médicaments antiviraux|médicament antiviral,Antiviral drugs are used to treat infections caused by viruses.,Les médicaments antiviraux sont utilisés pour traiter les infections causées par des virus.
+369,antiviral drug,traitement antiviral|médicaments antiviraux|médicament antiviral,Antiviral drugs can be used to treat viral infections.,Les médicaments antiviraux peuvent être utilisés pour traiter les infections virales.
+370,Ebola,Ebola,Ebola is a deadly virus that has caused outbreaks in several countries.,Ebola est un virus mortel qui a provoqué des épidémies dans plusieurs pays.
+371,Ebola,Ebola,Ebola is a deadly virus that has caused outbreaks in Africa.,Le virus Ebola est un virus mortel qui a provoqué des épidémies en Afrique.
+372,Ebola,Ebola,Ebola is a deadly virus that has caused outbreaks in several countries.,Ebola est un virus mortel qui a provoqué des épidémies dans plusieurs pays.
+373,Ebola,Ebola,Ebola is a deadly virus that has caused outbreaks in several countries.,Ebola est un virus mortel qui a causé des épidémies dans plusieurs pays.
+374,Ebola,Ebola,Ebola is a deadly virus that has caused outbreaks in several countries.,Ebola est un virus mortel qui a provoqué des épidémies dans plusieurs pays.
+375,contagious,contagieux,The flu is highly contagious.,La grippe est très contagieuse.
+376,contagious,contagieux,The flu is highly contagious.,La grippe est très contagieuse.
+377,contagious,contagieux,The flu is highly contagious.,La grippe est très contagieuse.
+378,contagious,contagieux,The flu is highly contagious.,La grippe est hautement contagieuse.
+379,contagious,contagieux,The flu is highly contagious.,La grippe est très contagieuse.
+380,symptomatic,symptomatique,I am experiencing symptomatic symptoms.,Je subis des symptômes symptomatiques.
+381,symptomatic,symptomatique,I am experiencing symptomatic symptoms.,Je ressens des symptômes symptomatiques.
+382,symptomatic,symptomatique,She was symptomatic of the flu.,Elle était symptomatique de la grippe.
+383,symptomatic,symptomatique,She was showing symptomatic signs of the flu.,Elle montrait des signes symptomatiques du rhume.
+384,symptomatic,symptomatique,She was showing symptomatic signs of the flu.,Elle montrait des signes symptomatiques de la grippe.
+385,COVID-19 outbreak,épidémie de COVID-19,The COVID-19 outbreak has caused a global health crisis.,L'épidémie de COVID-19 a provoqué une crise sanitaire mondiale.
+386,COVID-19 outbreak,épidémie de COVID-19,The COVID-19 outbreak has caused a global health crisis.,L'éclosion de la COVID-19 a provoqué une crise sanitaire mondiale.
+387,COVID-19 outbreak,épidémie de COVID-19,The COVID-19 outbreak has caused a global health crisis.,L'épidémie de COVID-19 a provoqué une crise sanitaire mondiale.
+388,COVID-19 outbreak,épidémie de COVID-19,The COVID-19 outbreak has caused a global health crisis.,L’épidémie de COVID-19 a provoqué une crise sanitaire mondiale.
+389,COVID-19 outbreak,épidémie de COVID-19,The COVID-19 outbreak has caused a global health crisis.,L'épidémie de COVID-19 a provoqué une crise sanitaire mondiale.
+390,contagion,contagion,The spread of disease through contact with an infected person is known as contagion.,La propagation de la maladie par contact avec une personne infectée est connue sous le nom de contagion.
+391,contagion,contagion,The spread of disease through contact with an infected person is known as contagion.,La propagation d'une maladie par le contact avec une personne infectée est connue sous le nom de contagion.
+392,contagion,contagion,The spread of disease through contact with an infected person is known as contagion.,La propagation d'une maladie par contact avec une personne infectée s'appelle la contagion.
+393,contagion,contagion,The spread of the disease was a result of the contagion.,La propagation de la maladie était le résultat de la contagion.
+394,contagion,contagion,The spread of disease through contact with an infected person is known as contagion.,La propagation de la maladie par le contact avec une personne infectée est connue sous le nom de contagion.
+395,updates,mises à jour,I need to stay up to date with the latest updates.,J'ai besoin de rester à jour avec les dernières mises à jour.
+396,updates,mises à jour,I need to stay up to date with the latest updates.,J'ai besoin de rester à jour avec les dernières mises à jour.
+397,updates,mises à jour,I need to stay up to date with the latest updates.,J'ai besoin de rester à jour avec les dernières mises à jour.
+398,updates,mises à jour,I need to stay up to date with the latest updates.,J'ai besoin de rester à jour avec les dernières mises à jour.
+399,updates,mises à jour,I need to stay up to date with the latest updates.,J'ai besoin de rester à jour des dernières mises à jour.
+400,close contact,contact rapproché|contact étroit,I have been in close contact with my family during the pandemic.,J'ai été en contact étroit avec ma famille pendant la pandémie.
+401,close contact,contact rapproché|contact étroit,I have been in close contact with her for many years.,J'ai été en contact étroit avec elle depuis de nombreuses années.
+402,close contact,contact rapproché|contact étroit,I have been in close contact with her for many years.,J'ai été en contact étroit avec elle depuis de nombreuses années.
+403,close contact,contact rapproché|contact étroit,I have been in close contact with her lately.,J'ai été en contact étroit avec elle ces derniers temps.
+404,close contact,contact rapproché|contact étroit,I have been in close contact with him for many years.,J'ai été en contact étroit avec lui pendant de nombreuses années.
+405,antiviral treatment,traitement antiviral,Antiviral treatment is necessary to help fight off the virus.,Traitement antiviral est nécessaire pour aider à combattre le virus.
+406,antiviral treatment,traitement antiviral,Antiviral treatment is an effective way to combat viral infections.,Traitement antiviral est une façon efficace de combattre les infections virales.
+407,antiviral treatment,traitement antiviral,Antiviral treatment is often used to help reduce the severity of viral infections.,Le traitement antiviral est souvent utilisé pour aider à réduire la gravité des infections virales.
+408,antiviral treatment,traitement antiviral,Antiviral treatment is an effective way to combat viral infections.,Traitement antiviral est un moyen efficace de combattre les infections virales.
+409,antiviral treatment,traitement antiviral,Antiviral treatment is often used to help reduce the symptoms of viral infections.,Le traitement antiviral est souvent utilisé pour aider à réduire les symptômes des infections virales.
+410,vaccine,vaccinale|vaccin,I received my vaccine today.,J'ai reçu ma vaccination aujourd'hui.
+411,vaccine,vaccinale|vaccin,I received my vaccine today.,J'ai reçu mon vaccin aujourd'hui.
+412,vaccine,vaccinale|vaccin,I received my vaccine today.,J'ai reçu mon vaccin aujourd'hui.
+413,vaccine,vaccinale|vaccin,I received my vaccine today.,J'ai reçu mon vaccin aujourd'hui.
+414,vaccine,vaccinale|vaccin,I received my vaccine today.,J'ai reçu mon vaccin aujourd'hui.
+415,zoonotic virus,virus zoonotique,A zoonotic virus is a virus that can be transmitted between animals and humans.,Un virus zoonotique est un virus qui peut être transmis entre les animaux et les humains.
+416,zoonotic virus,virus zoonotique,A zoonotic virus is a virus that can be transmitted between animals and humans.,Un virus zoonotique est un virus qui peut être transmis entre les animaux et leshumains.
+417,zoonotic virus,virus zoonotique,A zoonotic virus is one that can be transmitted from animals to humans.,Un virus zoonotique est un virus qui peut être transmis des animaux aux humains.
+418,zoonotic virus,virus zoonotique,A zoonotic virus is a virus that can be transmitted from animals to humans.,Un virus zoonotique est un virus qui peut être transmis des animaux aux humains.
+419,zoonotic virus,virus zoonotique,A zoonotic virus is a virus that can be transmitted from animals to humans.,Un virus zoonotique est un virus qui peut être transmis des animaux aux humains.
+420,underlying disease,maladie sous-jacente,The underlying disease caused her symptoms.,La maladie sous-jacente provoquait ses symptômes.
+421,underlying disease,maladie sous-jacente,The underlying disease caused her symptoms.,La maladie sous-jacente a provoqué ses symptômes.
+422,underlying disease,maladie sous-jacente,The underlying disease was the cause of her illness.,La maladie sous-jacente était la cause de sa maladie.
+423,underlying disease,maladie sous-jacente,The underlying disease was the cause of her illness.,La maladie sous-jacente était la cause de sa maladie.
+424,underlying disease,maladie sous-jacente,The underlying disease caused her symptoms.,La maladie sous-jacente a causé ses symptômes.
+425,tissue damage,lésions tissulaires,The tissue has been damaged.,Le tissu a été endommagé.
+426,tissue damage,lésions tissulaires,The tissue has been damaged.,Le tissu a été endommagé.
+427,tissue damage,lésions tissulaires,The tissue has been damaged.,Le tissu a été endommagé.
+428,tissue damage,lésions tissulaires,The tissue has been damaged.,Le tissu a été endommagé.
+429,tissue damage,lésions tissulaires,The tissue has been damaged.,Le tissu a été endommagé.
+430,infectious,infectieux,She had an infectious laugh that made everyone around her smile.,Elle avait un rire contagieux qui faisait sourire tout le monde autour d'elle.
+431,infectious,infectieux,She had an infectious laugh that made everyone around her smile.,Elle avait un rire contagieux qui a fait sourire tout le monde autour d'elle.
+432,infectious,infectieux,She had an infectious smile that lit up the room.,Elle avait un sourire contagieux qui a illuminé la pièce.
+433,infectious,infectieux,She had an infectious laugh that made everyone around her smile.,Elle avait un rire contagieux qui faisait sourire tous ceux qui l'entouraient.
+434,infectious,infectieux,She had an infectious laugh that made everyone around her smile.,Elle avait un rire contagieux qui faisait sourire tout le monde autour d'elle.
+435,current outbreak,épidémie actuelle|actuelle épidémie,The current outbreak of the virus is causing widespread panic.,L'épidémie actuelle du virus cause une panique généralisée.
+436,current outbreak,épidémie actuelle|actuelle épidémie,The current outbreak of the virus has caused widespread panic.,L'épidémie actuelle du virus a provoqué une panique généralisée.
+437,current outbreak,épidémie actuelle|actuelle épidémie,The current outbreak of the coronavirus has caused widespread panic.,L'actuelle épidémie du coronavirus a provoqué une panique généralisée.
+438,current outbreak,épidémie actuelle|actuelle épidémie,The current outbreak of the virus has caused widespread concern.,L'épidémie actuelle du virus cause une préoccupation générale.
+439,current outbreak,épidémie actuelle|actuelle épidémie,The current outbreak of the virus has caused widespread panic.,L'épidémie actuelle du virus a provoqué une panique généralisée.
+440,lockdown,confinement|confinements,The government has imposed a lockdown to help prevent the spread of the virus.,Le gouvernement a imposé un confinement pour aider à prévenir la propagation du virus.
+441,lockdown,confinement|confinements,I'm staying home during the lockdown.,Je reste à la maison pendant le confinement.
+442,lockdown,confinement|confinements,We are currently in a lockdown due to the coronavirus pandemic.,Nous sommes actuellement en confinement à cause de la pandémie de coronavirus.
+443,lockdown,confinement|confinements,The government has imposed a strict lockdown to help prevent the spread of the virus.,Le gouvernement a imposé un verrouillage strict pour aider à prévenir la propagation du virus.
+444,lockdown,confinement|confinements,The government has imposed a lockdown to help slow the spread of the virus.,Le gouvernement a imposé un verrouillage pour aider à ralentir la propagation du virus.
+445,swab,prélèvements|prélèvement,I need to swab the wound to clean it.,J'ai besoin de tamponner la plaie pour la nettoyer.
+446,swab,prélèvements|prélèvement,I need to swab the wound with antiseptic.,J'ai besoin de nettoyer la plaie avec un antiseptique.
+447,swab,prélèvements|prélèvement,I need to swab the wound with antiseptic.,J'ai besoin de nettoyer la blessure avec un antiseptique.
+448,swab,prélèvements|prélèvement,She swabbed the wound with a cotton ball.,Elle a essuyé la plaie avec un coton-tige.
+449,swab,prélèvements|prélèvement,I need to swab the wound to clean it.,J'ai besoin de nettoyer la blessure avec un coton-tige.
+450,influenza,grippal|grippale|grippe,I caught the flu last week.,J'ai attrapé la grippe la semaine dernière.
+451,influenza,grippal|grippale|grippe,I caught the flu last week.,J'ai attrapé la grippe la semaine dernière.
+452,influenza,grippal|grippale|grippe,I caught the flu last week.,J'ai attrapé la grippe la semaine dernière.
+453,influenza,grippal|grippale|grippe,I caught the flu last week.,J'ai attrapé la grippe la semaine dernière.
+454,influenza,grippal|grippale|grippe,I caught the flu last week.,J'ai attrapé la grippe la semaine dernière.
+455,isolation,isolement|isoler|isolation,I felt a sense of isolation when I was alone in the room.,J'ai ressenti un sentiment d'isolement quand j'étais seul dans la pièce.
+456,isolation,isolement|isoler|isolation,I felt a sense of isolation when I was alone in the room.,J'ai ressenti un sentiment d'isolement quand j'étais seul dans la pièce.
+457,isolation,isolement|isoler|isolation,I felt a deep sense of isolation when I was alone in the room.,J'ai ressenti une profonde sensation d'isolement quand j'étais seul dans la pièce.
+458,isolation,isolement|isoler|isolation,I felt a deep sense of isolation when I was alone in my room.,J'ai ressenti un profond sentiment d'isolement lorsque j'étais seul dans ma chambre.
+459,isolation,isolement|isoler|isolation,I feel so isolated from the rest of the world.,Je me sens tellement isolé du reste du monde.
+460,infectivity,infectivité,The infectivity of the virus is spreading rapidly.,L'infectiosité du virus se propage rapidement.
+461,infectivity,infectivité,The infectivity of the virus is increasing.,L'infectivité du virus est en augmentation.
+462,infectivity,infectivité,The infectivity of the virus is increasing.,L'infectivité du virus est en augmentation.
+463,infectivity,infectivité,The infectivity of the virus is increasing rapidly.,L'infectiosité du virus augmente rapidement.
+464,infectivity,infectivité,The infectivity of the virus is increasing rapidly.,L'infectiosité du virus augmente rapidement.
+465,sneezing,éternuements|éternue|éternuement|éternuer,I sneezed.,Je toussai.
+466,sneezing,éternuements|éternue|éternuement|éternuer,I sneezed.,Je toussai.
+467,sneezing,éternuements|éternue|éternuement|éternuer,I sneezed loudly.,J'ai éternué fort.
+468,sneezing,éternuements|éternue|éternuement|éternuer,I sneezed.,Je me suis éternué.
+469,sneezing,éternuements|éternue|éternuement|éternuer,I sneezed loudly.,J'ai éternué bruyamment.
+470,precaution,précautions|précaution,It is always wise to take precautions.,Il est toujours sage de prendre des précautions.
+471,precaution,précautions|précaution,It is always wise to take precautions.,Il est toujours sage de prendre des précautions.
+472,precaution,précautions|précaution,Take precautions to ensure your safety.,Prenez les précautions nécessaires pour assurer votre sécurité.
+473,precaution,précautions|précaution,It is always wise to take precautions.,Il est toujours sage de prendre des précautions.
+474,precaution,précautions|précaution,Take precautions to ensure your safety.,Prenez des précautions pour assurer votre sécurité.
+475,face masks,masques de protection|masques faciaux,Wearing face masks is an important part of staying safe during the pandemic.,Le port de masques faciaux est une partie importante de rester en sécurité pendant la pandémie.
+476,face masks,masques de protection|masques faciaux,Wearing face masks is important to help protect yourself and others from the spread of germs.,Le port de masques est important pour aider à se protéger soi-même et les autres contre la propagation des germes.
+477,face masks,masques de protection|masques faciaux,Wearing face masks is important to help protect against the spread of germs.,Le port de masques faciaux est important pour aider à protéger contre la propagation des germes.
+478,face masks,masques de protection|masques faciaux,Wearing face masks is an important part of staying safe during the pandemic.,Porter des masques faciaux est une partie importante pour rester en sécurité pendant la pandémie.
+479,face masks,masques de protection|masques faciaux,Wearing face masks is an important part of staying safe during the pandemic.,Porter des masques faciaux est une partie importante de rester en sécurité pendant la pandémie.
+480,masks,masque|masques,People are wearing masks to help protect themselves from the spread of disease.,Les gens portent des masques pour se protéger contre la propagation des maladies.
+481,masks,masque|masques,People are wearing masks to help protect themselves from the spread of disease.,Les gens portent des masques pour se protéger de la propagation de la maladie.
+482,masks,masque|masques,People are wearing masks to help protect themselves from getting sick.,Les gens portent des masques pour se protéger contre la maladie.
+483,masks,masque|masques,Wearing masks has become an important part of our daily lives.,Le port de masques est devenu une partie importante de nos vies quotidiennes.
+484,masks,masque|masques,People are wearing masks to help protect themselves from the spread of the virus.,Les gens portent des masques pour se protéger contre la propagation du virus.
+485,droplets,gouttelettes,The sky was filled with tiny droplets of rain.,Le ciel était rempli de minuscules gouttelettes de pluie.
+486,droplets,gouttelettes,The sky was filled with tiny droplets of rain.,Le ciel était rempli de minuscules gouttelettes de pluie.
+487,droplets,gouttelettes,The sky was filled with tiny droplets of rain.,Le ciel était plein de petites gouttes de pluie.
+488,droplets,gouttelettes,The sky was filled with tiny droplets of rain.,Le ciel était rempli de petites gouttelettes de pluie.
+489,droplets,gouttelettes,The sky was filled with tiny droplets of rain.,Le ciel était rempli de toutes petites gouttes de pluie.
+490,surfaces,surfaces,The surfaces of the table were smooth and shiny.,Les surfaces de la table étaient lisses et brillantes.
+491,surfaces,surfaces,The surfaces of the table were smooth and shiny.,Les surfaces de la table étaient lisses et brillantes.
+492,surfaces,surfaces,The surfaces of the table were smooth and shiny.,Les surfaces de la table étaient lisses et brillantes.
+493,surfaces,surfaces,The surfaces of the table were smooth and shiny.,Les surfaces de la table étaient lisses et brillantes.
+494,surfaces,surfaces,The surfaces of the table were smooth and shiny.,Les surfaces de la table étaient lisses et brillantes.
+495,self-quarantine,quarantaine spontanée,I am self-quarantining to protect myself and others from the spread of the virus.,Je m'auto-confinement pour me protéger et protéger les autres de la propagation du virus.
+496,self-quarantine,quarantaine spontanée,I am self-quarantining to help prevent the spread of the virus.,Je me mets en auto-quarantaine pour aider à prévenir la propagation du virus.
+497,self-quarantine,quarantaine spontanée,I am self-quarantining to protect myself and others from potential exposure to the virus.,Je me mets en quarantaine pour me protéger et protéger les autres d'une éventuelle exposition au virus.
+498,self-quarantine,quarantaine spontanée,I am self-quarantining to protect myself and others from the spread of the virus.,Je me mets en quarantaine pour me protéger et protéger les autres de la propagation du virus.
+499,self-quarantine,quarantaine spontanée,I am self-quarantining to protect myself and others.,Je me mets en auto-quarantaine pour me protéger et protéger les autres.
+500,contagiousness,contagieux|contagiosité,The contagiousness of the disease spread quickly.,La contagiosité de la maladie s'est rapidement répandue.
+501,contagiousness,contagieux|contagiosité,The contagiousness of the virus spread quickly throughout the population.,La contagiosité du virus s'est rapidement répandue dans la population.
+502,contagiousness,contagieux|contagiosité,The contagiousness of the virus spread quickly throughout the population.,La contagiosité du virus s'est propagée rapidement à travers la population.
+503,contagiousness,contagieux|contagiosité,The contagiousness of the disease spread quickly.,La contagiosité de la maladie s'est répandue rapidement.
+504,contagiousness,contagieux|contagiosité,The contagiousness of the disease spread quickly.,La contagiosité de la maladie s'est répandue rapidement.
+505,epidemic disease,maladie épidémique|maladies épidémiques,The spread of an epidemic disease is causing alarm throughout the country.,La propagation d'une maladie épidémique est source d'inquiétude dans tout le pays.
+506,epidemic disease,maladie épidémique|maladies épidémiques,The outbreak of an epidemic disease has caused widespread panic.,L'éclosion d'une maladie épidémique a causé une panique généralisée.
+507,epidemic disease,maladie épidémique|maladies épidémiques,The outbreak of an epidemic disease has caused widespread panic.,L'éclosion d'une maladie épidémique a causé une panique générale.
+508,epidemic disease,maladie épidémique|maladies épidémiques,The outbreak of an epidemic disease has caused widespread panic.,L'éclosion d'une maladie épidémique a causé une panique généralisée.
+509,epidemic disease,maladie épidémique|maladies épidémiques,The outbreak of an epidemic disease has caused widespread panic.,L'éclosion d'une maladie épidémique a causé une panique généralisée.
+510,death rate,taux de mortalité,The death rate has increased significantly this year.,Le taux de mortalité a augmenté significativement cette année.
+511,death rate,taux de mortalité,The death rate has increased significantly this year.,Le taux de mortalité a considérablement augmenté cette année.
+512,death rate,taux de mortalité,The death rate has increased significantly over the past year.,La mortalité a significativement augmenté au cours de l'année dernière.
+513,death rate,taux de mortalité,The death rate has increased significantly in the past year.,Le taux de mortalité a significativement augmenté au cours de l'année dernière.
+514,death rate,taux de mortalité,The death rate has increased significantly this year.,Le taux de décès a augmenté significativement cette année.
+515,assay,tests|test,I will perform an assay to determine the accuracy of the results.,Je vais effectuer un essai pour déterminer la précision des résultats.
+516,assay,tests|test,I will need to assay the sample before I can give an accurate result.,Je devrai analyser l'échantillon avant de pouvoir donner un résultat précis.
+517,assay,tests|test,I will need to perform an assay to determine the results.,Je devrai effectuer un dosage pour déterminer les résultats.
+518,assay,tests|test,I will need to perform an assay to determine the accuracy of the results.,J'aurais besoin de réaliser une analyse pour déterminer la précision des résultats.
+519,assay,tests|test,I will need to perform an assay to determine the accuracy of my results.,Je devrai effectuer une analyse pour déterminer la précision de mes résultats.
+520,effective treatment,traitement efficace,The effective treatment has been successful in improving the patient's condition.,Le traitement efficace a été couronné de succès pour améliorer l'état du patient.
+521,effective treatment,traitement efficace,The effective treatment has been successful in improving the patient's condition.,Le traitement efficace a été une réussite dans l'amélioration de l'état du patient.
+522,effective treatment,traitement efficace,The effective treatment has been successful in improving the patient's condition.,Le traitement efficace a été couronné de succès dans l'amélioration de l'état du patient.
+523,effective treatment,traitement efficace,The effective treatment was successful in improving the patient's condition.,Le traitement efficace a réussi à améliorer l'état du patient.
+524,effective treatment,traitement efficace,The effective treatment has been successful in improving the patient's condition.,Le traitement efficace a été un succès dans l'amélioration de l'état du patient.
+525,transmissibility,transmissibilité,The transmissibility of the virus is a major concern.,La transmissibilité du virus est une préoccupation majeure.
+526,transmissibility,transmissibilité,The transmissibility of the virus is a major concern.,La transmissibilité du virus est une préoccupation majeure.
+527,transmissibility,transmissibilité,The transmissibility of the virus is a major concern.,La transmissibilité du virus est une préoccupation majeure.
+528,transmissibility,transmissibilité,The transmissibility of the virus is a major concern.,La transmissibilité du virus est une préoccupation majeure.
+529,transmissibility,transmissibilité,The transmissibility of the virus is a major concern.,La transmissibilité du virus est une préoccupation majeure.
+530,electron microscope,microscope électronique,An electron microscope is used to magnify objects too small to be seen with a regular microscope.,Un microscope électronique est utilisé pour grossir des objets trop petits pour être vus avec un microscope ordinaire.
+531,electron microscope,microscope électronique,An electron microscope is a device used to magnify objects at a much higher resolution than a traditional optical microscope.,Un microscope à électrons est un dispositif utilisé pour agrandir des objets à une résolution beaucoup plus élevée qu'un microscope optique traditionnel.
+532,electron microscope,microscope électronique,An electron microscope is used to magnify objects too small to be seen by the naked eye.,Un microscope à électrons est utilisé pour agrandir des objets trop petits pour être vus à l'œil nu.
+533,electron microscope,microscope électronique,An electron microscope is a device used to magnify objects that are too small to be seen with the naked eye.,Un microscope électronique est un dispositif utilisé pour agrandir des objets qui sont trop petits pour être vus à l'œil nu.
+534,electron microscope,microscope électronique,An electron microscope is used to magnify objects too small to be seen with a regular microscope.,Un microscope électronique est utilisé pour agrandir des objets trop petits pour être vus avec un microscope ordinaire.
+535,2019-nCoV,2019-nCoV,The novel coronavirus 2019-nCoV has caused a global health crisis.,Le nouveau coronavirus 2019-nCoV a provoqué une crise sanitaire mondiale.
+536,2019-nCoV,2019-nCoV,"The novel coronavirus, 2019-nCoV, has caused a global health crisis.",Le nouveau coronavirus 2019-nCoV a causé une crise sanitaire mondiale.
+537,2019-nCoV,2019-nCoV,The novel coronavirus 2019-nCoV has caused global concern.,Le nouveau coronavirus 2019-nCoV a suscité des craintes à l'échelle mondiale.
+538,2019-nCoV,2019-nCoV,"The novel coronavirus, 2019-nCoV, has caused a global health crisis.","Le nouveau coronavirus, 2019-nCoV, a causé une crise sanitaire mondiale."
+539,2019-nCoV,2019-nCoV,I'm concerned about the 2019-nCoV outbreak.,Je suis préoccupé par l'éclosion du 2019-nCoV.
+540,COVID-19 epidemic,épidémie de COVID-19,The COVID-19 epidemic has caused a global health crisis.,L'épidémie de COVID-19 a provoqué une crise sanitaire mondiale.
+541,COVID-19 epidemic,épidémie de COVID-19,The COVID-19 epidemic has caused widespread disruption around the world.,L'épidémie de COVID-19 a provoqué des perturbations généralisées dans le monde entier.
+542,COVID-19 epidemic,épidémie de COVID-19,The COVID-19 epidemic has caused a global health crisis.,L'épidémie de COVID-19 a provoqué une crise sanitaire mondiale.
+543,COVID-19 epidemic,épidémie de COVID-19,The COVID-19 epidemic has had a devastating impact on the world.,L'épidémie de COVID-19 a eu un impact dévastateur sur le monde.
+544,COVID-19 epidemic,épidémie de COVID-19,The COVID-19 epidemic has had a devastating impact on the world.,L'épidémie de COVID-19 a eu un effet dévastateur sur le monde.
+545,incubation,incubation,The incubation period lasted for two weeks.,La période d'incubation a duré deux semaines.
+546,incubation,incubation,The incubation period for the virus was two weeks.,La période d'incubation du virus était de deux semaines.
+547,incubation,incubation,The incubation period lasted for three weeks.,Le temps d'incubation a duré trois semaines.
+548,incubation,incubation,The incubation period for the virus was two weeks.,Le période d'incubation du virus était de deux semaines.
+549,incubation,incubation,The incubation period lasted for three weeks.,Période d'incubation a duré trois semaines.
+550,immunocompromised,immunodéprimés|immunodéprimé,People who are immunocompromised are more vulnerable to illnesses.,Les personnes immunodéprimées sont plus vulnérables aux maladies.
+551,immunocompromised,immunodéprimés|immunodéprimé,People who are immunocompromised have weakened immune systems and are more susceptible to illnesses.,Les personnes immunodéprimées ont des systèmes immunitaires affaiblis et sont plus susceptibles aux maladies.
+552,immunocompromised,immunodéprimés|immunodéprimé,People who are immunocompromised are more vulnerable to illnesses.,Les personnes immunodéprimées sont plus vulnérables aux maladies.
+553,immunocompromised,immunodéprimés|immunodéprimé,People who are immunocompromised are at a higher risk of developing serious illnesses.,Les personnes immunodéficientes courent un plus grand risque de développer des maladies graves.
+554,immunocompromised,immunodéprimés|immunodéprimé,People who are immunocompromised are more vulnerable to illnesses.,Les personnes immunodéficientes sont plus vulnérables aux maladies.
+555,Guangdong,Guangdong,I recently visited Guangdong in China.,J'ai récemment visité le Guangdong en Chine.
+556,Guangdong,Guangdong,I recently visited Guangdong in China.,J'ai récemment visité le Guangdong en Chine.
+557,Guangdong,Guangdong,"I recently visited Guangdong, a province in China.","J'ai récemment visité Guangdong, une province en Chine."
+558,Guangdong,Guangdong,"I recently visited Guangdong, China.","Je viens de visiter Guangdong, Chine."
+559,Guangdong,Guangdong,I recently visited Guangdong in China.,"Récemment, j'ai visité le Guangdong en Chine."
+560,respiratory distress,détresse respiratoire,The patient is experiencing respiratory distress.,Le patient souffre d'un détresse respiratoire.
+561,respiratory distress,détresse respiratoire,The patient is experiencing respiratory distress.,Le patient ressent un désordre respiratoire.
+562,respiratory distress,détresse respiratoire,She was having difficulty breathing and was showing signs of respiratory distress.,Elle avait de la difficulté à respirer et montrait des signes de détresse respiratoire.
+563,respiratory distress,détresse respiratoire,The patient is experiencing respiratory distress.,Le patient souffre d'une détresse respiratoire.
+564,respiratory distress,détresse respiratoire,She was having difficulty breathing and was diagnosed with respiratory distress.,Elle avait des difficultés à respirer et a été diagnostiquée avec un détresse respiratoire.
+565,respiratory illness,maladies respiratoires|maladie respiratoire,I have been diagnosed with a respiratory illness.,J'ai été diagnostiqué avec une maladie respiratoire.
+566,respiratory illness,maladies respiratoires|maladie respiratoire,I have a respiratory illness.,J'ai une maladie respiratoire.
+567,respiratory illness,maladies respiratoires|maladie respiratoire,I have a respiratory illness.,J'ai une maladie respiratoire.
+568,respiratory illness,maladies respiratoires|maladie respiratoire,I have been diagnosed with a respiratory illness.,J'ai été diagnostiqué avec une maladie respiratoire.
+569,respiratory illness,maladies respiratoires|maladie respiratoire,I have a respiratory illness.,J'ai une maladie respiratoire.
+570,respiratory disease,maladies respiratoires|maladies communes des voies respiratoires|maladie respiratoire,People with respiratory disease often have difficulty breathing.,Les personnes atteintes de maladies respiratoires ont souvent des difficultés à respirer.
+571,respiratory disease,maladies respiratoires|maladies communes des voies respiratoires|maladie respiratoire,People with respiratory disease often have difficulty breathing.,Les personnes atteintes de maladie respiratoire ont souvent des difficultés pour respirer.
+572,respiratory disease,maladies respiratoires|maladies communes des voies respiratoires|maladie respiratoire,People with respiratory disease often have difficulty breathing.,Les personnes souffrant d'une maladie respiratoire ont souvent des difficultés à respirer.
+573,respiratory disease,maladies respiratoires|maladies communes des voies respiratoires|maladie respiratoire,People with respiratory disease often experience difficulty breathing.,Les personnes atteintes de maladies respiratoires éprouvent souvent des difficultés à respirer.
+574,respiratory disease,maladies respiratoires|maladies communes des voies respiratoires|maladie respiratoire,People who suffer from respiratory disease often have difficulty breathing.,Les personnes qui souffrent de maladies respiratoires ont souvent des difficultés à respirer.
+575,hospitalize,hospitalisés|hospitalisé|hospitalisées|hospitaliser,She was hospitalized for her injuries.,Elle a été hospitalisée pour ses blessures.
+576,hospitalize,hospitalisés|hospitalisé|hospitalisées|hospitaliser,She was hospitalized for her injuries.,Elle a été hospitalisée pour ses blessures.
+577,hospitalize,hospitalisés|hospitalisé|hospitalisées|hospitaliser,She was hospitalized for a week due to her illness.,Elle a été hospitalisée pendant une semaine à cause de sa maladie.
+578,hospitalize,hospitalisés|hospitalisé|hospitalisées|hospitaliser,The patient was hospitalized for further treatment.,Le patient a été hospitalisé pour un traitement supplémentaire.
+579,hospitalize,hospitalisés|hospitalisé|hospitalisées|hospitaliser,The patient was hospitalized for further treatment.,Le patient a été hospitalisé pour un traitement supplémentaire.
+580,renal failure,insuffisance rénale,She was hospitalized due to renal failure.,Elle a été hospitalisée en raison d'une insuffisance rénale.
+581,renal failure,insuffisance rénale,She was hospitalized due to renal failure.,Elle a été hospitalisée en raison d'une insuffisance rénale.
+582,renal failure,insuffisance rénale,She was hospitalized due to renal failure.,Elle a été hospitalisée en raison d'une insuffisance rénale.
+583,renal failure,insuffisance rénale,He was hospitalized due to renal failure.,Il a été hospitalisé en raison d'une insuffisance rénale.
+584,renal failure,insuffisance rénale,She was hospitalized due to renal failure.,Elle a été hospitalisée en raison d'une insuffisance rénale.
+585,transmissible,se transmet|transmissible,The disease is transmissible.,La maladie est transmissible.
+586,transmissible,se transmet|transmissible,The disease is transmissible.,La maladie est transmissible.
+587,transmissible,se transmet|transmissible,The disease is transmissible.,La maladie est transmissible.
+588,transmissible,se transmet|transmissible,The disease is transmissible.,La maladie est transmissible.
+589,transmissible,se transmet|transmissible,The disease is transmissible.,La maladie est transmissible.
+590,exposure,exposition|exposées|exposés|expositions,I was exposed to a new experience.,J'ai été exposé à une nouvelle expérience.
+591,exposure,exposition|exposées|exposés|expositions,I was exposed to a new experience.,J'ai été exposé à une nouvelle expérience.
+592,exposure,exposition|exposées|exposés|expositions,I was exposed to a new experience.,J'ai été exposé à une nouvelle expérience.
+593,exposure,exposition|exposées|exposés|expositions,I was exposed to a new experience.,J'ai été exposé à une nouvelle expérience.
+594,exposure,exposition|exposées|exposés|expositions,I was exposed to a new experience.,J'ai eu l'opportunité de vivre une nouvelle expérience.
+595,clinical trial,essais cliniques|étude clinique|essai clinique,A clinical trial is being conducted to test the effectiveness of a new drug.,Une essai clinique est en cours pour tester l'efficacité d'un nouveau médicament.
+596,clinical trial,essais cliniques|étude clinique|essai clinique,Patients are being recruited for a new clinical trial to test a potential treatment for the disease.,Les patients sont recrutés pour une nouvelle étude clinique pour tester un traitement potentiel pour la maladie.
+597,clinical trial,essais cliniques|étude clinique|essai clinique,A clinical trial is being conducted to test the effectiveness of a new drug.,Un essai clinique est en cours pour tester l'efficacité d'un nouveau médicament.
+598,clinical trial,essais cliniques|étude clinique|essai clinique,A clinical trial is being conducted to test the effectiveness of a new drug.,Une étude clinique est en cours pour tester l'efficacité d'un nouveau médicament.
+599,clinical trial,essais cliniques|étude clinique|essai clinique,Patients are encouraged to participate in a clinical trial to help advance medical research.,Les patients sont encouragés à participer à une étude clinique pour contribuer à l'avancement de la recherche médicale.
+600,deadly,mortel,The situation was deadly.,La situation était mortelle.
+601,deadly,mortel,He was struck with a deadly blow.,Il a été frappé d'un coup mortel.
+602,deadly,mortel,He was a deadly opponent in the game.,Il était un adversaire redoutable dans le jeu.
+603,deadly,mortel,He was a deadly opponent in the game.,Il était un adversaire mortel dans le jeu.
+604,deadly,mortel,The storm was deadly.,La tempête était mortelle.
+605,2019 novel Coronavirus,nouveau coronavirus de 2019,The novel Coronavirus of 2019 has caused a global pandemic.,Le nouveau coronavirus de 2019 a provoqué une pandémie mondiale.
+606,2019 novel Coronavirus,nouveau coronavirus de 2019,"In 2019, a novel Coronavirus was discovered.","En 2019, un nouveau Coronavirus a été découvert."
+607,2019 novel Coronavirus,nouveau coronavirus de 2019,The novel Coronavirus of 2019 has caused a global pandemic.,"En 2019, un nouveau Coronavirus a été découvert."
+608,2019 novel Coronavirus,nouveau coronavirus de 2019,"In 2019, a novel coronavirus was discovered.","En 2019, un nouveau coronavirus a été découvert."
+609,2019 novel Coronavirus,nouveau coronavirus de 2019,"In 2019, a novel Coronavirus was discovered.","En 2019, un nouveau coronavirus a été découvert."
+610,active cases,cas actifs,There are currently 500 active cases of the virus in the city.,Il y a actuellement 500 cas actifs du virus dans la ville.
+611,active cases,cas actifs,There are currently 500 active cases of the virus in the city.,Il y a actuellement 500 cas actifs du virus dans la ville.
+612,active cases,cas actifs,There are currently 200 active cases of COVID-19 in the city.,Il y a actuellement 200 cas actifs de COVID-19 dans la ville.
+613,active cases,cas actifs,There are currently 500 active cases of COVID-19 in the city.,Il y a actuellement 500 cas actifs de COVID-19 dans la ville.
+614,active cases,cas actifs,There are currently 500 active cases of the virus in the city.,Il y a actuellement 500 cas actifs du virus dans la ville.
+615,Coronavirus cases,cas de coronavirus,The number of Coronavirus cases is increasing rapidly.,Le nombre de cas de coronavirus augmente rapidement.
+616,Coronavirus cases,cas de coronavirus,The number of Coronavirus cases is increasing rapidly.,Le nombre de cas de coronavirus augmente rapidement.
+617,Coronavirus cases,cas de coronavirus,The number of Coronavirus cases is increasing rapidly.,Le nombre de cas de Coronavirus augmente rapidement.
+618,Coronavirus cases,cas de coronavirus,The number of Coronavirus cases is increasing rapidly.,Le nombre de cas de Coronavirus augmente rapidement.
+619,Coronavirus cases,cas de coronavirus,The number of Coronavirus cases is increasing rapidly.,Le nombre de cas de Coronavirus augmente rapidement.
+620,restrictions,restrictions,There are certain restrictions that must be followed.,Il y a certaines restrictions qui doivent être suivies.
+621,restrictions,restrictions,There are restrictions in place that must be followed.,Il y a des restrictions en place qui doivent être suivies.
+622,restrictions,restrictions,There are restrictions in place that must be followed.,Il y a des restrictions en place qui doivent être suivies.
+623,restrictions,restrictions,There are restrictions in place that must be followed.,Il y a des restrictions en place qui doivent être suivies.
+624,restrictions,restrictions,There are certain restrictions in place.,Il y a certaines restrictions en place.
+625,ongoing outbreak,épidémie en cours,The ongoing outbreak of the virus is causing concern worldwide.,L'épidémie en cours du virus suscite des inquiétudes dans le monde entier.
+626,ongoing outbreak,épidémie en cours,The ongoing outbreak of the virus is causing concern around the world.,L'épidémie en cours du virus cause des inquiétudes dans le monde entier.
+627,ongoing outbreak,épidémie en cours,The ongoing outbreak of the virus is causing concern among health officials.,L'épidémie en cours du virus cause des inquiétudes chez les responsables de la santé.
+628,ongoing outbreak,épidémie en cours,The ongoing outbreak of the virus is causing concern around the world.,L'épidémie actuelle du virus cause des inquiétudes dans le monde entier.
+629,ongoing outbreak,épidémie en cours,The ongoing outbreak of the virus is causing concern around the world.,L'épidémie en cours du virus cause une inquiétude autour du monde.
+630,respiratory virus,virus respiratoire,I have been diagnosed with a respiratory virus.,J'ai été diagnostiqué avec un virus respiratoire.
+631,respiratory virus,virus respiratoire,I caught a respiratory virus.,J'ai attrapé un virus respiratoire.
+632,respiratory virus,virus respiratoire,I have been diagnosed with a respiratory virus.,J'ai été diagnostiqué avec un virus respiratoire.
+633,respiratory virus,virus respiratoire,I have been diagnosed with a respiratory virus.,J'ai été diagnostiqué avec un virus respiratoire.
+634,respiratory virus,virus respiratoire,I have been diagnosed with a respiratory virus.,J'ai été diagnostiqué avec un virus respiratoire.
+635,Coronavirus pandemic,pandémie de coronavirus,The coronavirus pandemic has had a devastating impact on the world.,La pandémie de coronavirus a eu un impact dévastateur sur le monde.
+636,Coronavirus pandemic,pandémie de coronavirus,The coronavirus pandemic has had a devastating impact on the world.,La pandémie de coronavirus a eu un impact dévastateur sur le monde.
+637,Coronavirus pandemic,pandémie de coronavirus,The coronavirus pandemic has had a devastating impact on the world.,La pandémie de coronavirus a eu un impact dévastateur sur le monde.
+638,Coronavirus pandemic,pandémie de coronavirus,The coronavirus pandemic has had a devastating effect on the world.,La pandémie de coronavirus a eu un effet dévastateur sur le monde.
+639,Coronavirus pandemic,pandémie de coronavirus,The coronavirus pandemic has had a devastating impact on the world.,La pandémie de coronavirus a eu un impact dévastateur sur le monde.
+640,case fatality rate,taux de létalité,The case fatality rate is the proportion of people who die from a particular disease.,Le taux de létalité est la proportion de personnes qui meurent d'une maladie particulière.
+641,case fatality rate,taux de létalité,The case fatality rate is the percentage of people who have a particular disease and die from it.,Le taux de létalité est le pourcentage de personnes qui ont une maladie particulière et en meurent.
+642,case fatality rate,taux de létalité,The case fatality rate is an indication of the severity of the disease.,Le taux de létalité est une indication de la gravité de la maladie.
+643,case fatality rate,taux de létalité,The case fatality rate is the proportion of people who die from a particular disease.,Le taux de létalité est la proportion de personnes qui meurent d'une certaine maladie.
+644,case fatality rate,taux de létalité,The case fatality rate is an important measure of the severity of a disease.,Le taux de létalité est une mesure importante de la gravité d'une maladie.
+645,coughing,toussant|avoir toussé|toussé|tousse|tousser,I have been coughing a lot lately.,J'ai beaucoup toussé ces derniers temps.
+646,coughing,toussant|avoir toussé|toussé|tousse|tousser,I have been coughing a lot lately.,J'ai beaucoup toussé ces derniers temps.
+647,coughing,toussant|avoir toussé|toussé|tousse|tousser,I have been coughing a lot lately.,J'ai beaucoup toussé ces derniers temps.
+648,coughing,toussant|avoir toussé|toussé|tousse|tousser,I have been coughing a lot lately.,J'ai beaucoup toussé ces derniers temps.
+649,coughing,toussant|avoir toussé|toussé|tousse|tousser,I have been coughing a lot lately.,J'ai beaucoup toussé ces derniers temps.
+650,travel restrictions,restrictions de voyage|restrictions de voyages|restrictions des voyages,"Due to the current pandemic, travel restrictions have been put in place.","En raison de la pandémie actuelle, des restrictions de voyage ont été mises en place."
+651,travel restrictions,restrictions de voyage|restrictions de voyages|restrictions des voyages,"Due to the current pandemic, travel restrictions have been put in place.","En raison de la pandémie actuelle, des restrictions de voyage ont été mises en place."
+652,travel restrictions,restrictions de voyage|restrictions de voyages|restrictions des voyages,"Due to the current pandemic, travel restrictions have been put in place.","En raison de la pandémie actuelle, des restrictions de voyage ont été mises en place."
+653,travel restrictions,restrictions de voyage|restrictions de voyages|restrictions des voyages,"Due to the current pandemic, travel restrictions have been put in place.","En raison de la pandémie actuelle, des restrictions de voyage ont été mises en place."
+654,travel restrictions,restrictions de voyage|restrictions de voyages|restrictions des voyages,"Due to the current pandemic, travel restrictions have been put in place.","En raison de la pandémie actuelle, des restrictions de voyage ont été mises en place."
+655,COVID,COVID,"-19
+
+The world is currently facing the challenge of the COVID-19 pandemic.",Le monde fait face actuellement au défi de la pandémie de COVID-19.
+656,COVID,COVID,"-19
+
+Due to the spread of COVID-19, many countries have implemented strict safety measures.","En raison de la propagation du COVID-19, de nombreux pays ont mis en place des mesures de sécurité strictes."
+657,COVID,COVID,"-19
+
+The world is currently facing the challenge of the COVID-19 pandemic.",Le monde fait actuellement face au défi de la pandémie de COVID-19.
+658,COVID,COVID,"-19
+
+The world is currently facing the challenge of the COVID-19 pandemic.",Le monde est actuellement confronté à la pandémie de COVID-19.
+659,COVID,COVID,"-19
+
+The world is facing a global pandemic due to the spread of COVID-19.",Le monde fait face à une pandémie mondiale en raison de la propagation du COVID-19.
+660,CDC,CDC,The Centers for Disease Control and Prevention (CDC) is a national public health institute.,Les Centers pour la prévention et le contrôle des maladies (CDC) est un institut national de santé publique.
+661,CDC,CDC,The Centers for Disease Control and Prevention (CDC) is a leading public health agency in the United States.,Les Centers for Disease Control and Prevention (CDC) est une principale agence de santé publique aux États-Unis.
+662,CDC,CDC,The Centers for Disease Control and Prevention (CDC) is a leading public health agency in the United States.,Les Centers for Disease Control and Prevention (CDC) sont une agence de santé publique de premier plan aux États-Unis.
+663,CDC,CDC,The Centers for Disease Control and Prevention (CDC) is a leading public health agency in the United States.,Les Centers for Disease Control and Prevention (CDC) sont une agence de santé publique de premier plan aux États-Unis.
+664,CDC,CDC,The Centers for Disease Control and Prevention (CDC) is a national public health institute.,Les Centers for Disease Control and Prevention (CDC) est une institut national de santé publique.
+665,death toll,nombre de décès,The death toll from the accident was five people.,Le nombre de morts dans l'accident était de cinq personnes.
+666,death toll,nombre de décès,The death toll from the accident was five people.,Le nombre de morts dans l'accident était de cinq personnes.
+667,death toll,nombre de décès,The death toll from the accident was five people.,Le nombre de morts dans l'accident était de cinq personnes.
+668,death toll,nombre de décès,The death toll from the accident was five people.,Le nombre de morts dans l'accident était de cinq personnes.
+669,death toll,nombre de décès,The death toll from the accident was five people.,Le nombre de morts dans l'accident était de cinq personnes.
+670,swine flu,grippe porcine,I heard that the swine flu is making a comeback.,J'ai entendu dire que la grippe porcine fait un retour.
+671,swine flu,grippe porcine,I heard that there has been an outbreak of swine flu in the area.,J'ai entendu dire qu'il y a eu une épidémie de grippe porcine dans les environs.
+672,swine flu,grippe porcine,I heard that there has been an outbreak of swine flu in the area.,J'ai entendu dire qu'il y a eu une épidémie de grippe porcine dans la région.
+673,swine flu,grippe porcine,I heard that there is an outbreak of swine flu in the area.,J'ai entendu dire qu'il y a une épidémie de grippe porcine dans la région.
+674,swine flu,grippe porcine,I heard that there has been an outbreak of swine flu in the area.,J'ai entendu dire qu'il y a eu une épidémie de grippe porcine dans le secteur.
+675,H1N1,H1N1,I recently received a flu shot to protect against the H1N1 virus.,J'ai récemment reçu une injection d'influenza pour me protéger contre le virus H1N1.
+676,H1N1,H1N1,I recently got vaccinated for H1N1.,J'ai récemment été vacciné contre le H1N1.
+677,H1N1,H1N1,I recently got vaccinated for the H1N1 virus.,J'ai récemment été vacciné contre le virus H1N1.
+678,H1N1,H1N1,I recently got vaccinated for the H1N1 virus.,J'ai récemment été vacciné contre le virus H1N1.
+679,H1N1,H1N1,I recently got vaccinated for H1N1.,Je me suis récemment vacciné contre le H1N1.
+680,fatality rate,taux de mortalité,The fatality rate is alarmingly high.,Le taux de mortalité est alarmant.
+681,fatality rate,taux de mortalité,The fatality rate has increased significantly in the past year.,Le taux de mortalité a fortement augmenté au cours de l'année dernière.
+682,fatality rate,taux de mortalité,The fatality rate is alarmingly high.,Le taux de mortalité est alarmant.
+683,fatality rate,taux de mortalité,The fatality rate is alarmingly high.,Le taux de mortalité est alarmant.
+684,fatality rate,taux de mortalité,The fatality rate is alarmingly high.,Le taux de mortalité est alarmant.
+685,virulence,virulence,The virus's virulence was alarming.,La virulence du virus était alarmante.
+686,virulence,virulence,The virus's virulence was alarming.,La virulence du virus était alarmante.
+687,virulence,virulence,The virus's virulence was alarming.,La virulence du virus était alarmante.
+688,virulence,virulence,The virus's virulence was alarming.,La virulence du virus était alarmante.
+689,virulence,virulence,The virus's virulence was alarming.,La virulence du virus était alarmante.
+690,sputum,crachat,"She coughed up a thick, yellow sputum.",Elle a craché un épais sputum jaune.
+691,sputum,crachat,I coughed up some sputum this morning.,J'ai craché un peu de crachat ce matin.
+692,sputum,crachat,She coughed up a thick green sputum.,Ellea craché un épais mélange vert.
+693,sputum,crachat,I coughed up a thick layer of sputum.,J'ai craché une couche épaisse de crachat.
+694,sputum,crachat,She coughed up a thick glob of sputum.,Elle a craché un gros morceau de crachat.
+695,phlegm,mucosités|mucus,I have a lot of phlegm in my throat.,J'ai beaucoup de mucosités dans ma gorge.
+696,phlegm,mucosités|mucus,I have a lot of phlegm in my throat.,J'ai beaucoup de glaires dans ma gorge.
+697,phlegm,mucosités|mucus,I have a lot of phlegm in my throat.,J'ai beaucoup de mucus dans ma gorge.
+698,phlegm,mucosités|mucus,I have a lot of phlegm in my throat.,J'ai beaucoup de mucus dans ma gorge.
+699,phlegm,mucosités|mucus,I have a lot of phlegm in my throat.,J'ai beaucoup de glaire dans ma gorge.
+700,sepsis,septicémie,She was admitted to the hospital with sepsis.,Elle a été admise à l'hôpital avec une septicémie.
+701,sepsis,septicémie,She was admitted to the hospital with sepsis.,Elle a été admise à l'hôpital avec une septicémie.
+702,sepsis,septicémie,She was admitted to the hospital for sepsis.,Elle a été admise à l'hôpital pour sépsis.
+703,sepsis,septicémie,She was rushed to the hospital due to sepsis.,Elle a été précipitée à l'hôpital à cause de la septicémie.
+704,sepsis,septicémie,She was admitted to the hospital with sepsis.,Elle a été admise à l'hôpital avec une septicémie.
+705,intubation,intubation,The doctor performed an intubation to help the patient breathe.,Le médecin a effectué une intubation pour aider le patient à respirer.
+706,intubation,intubation,The doctor performed an intubation to help the patient breathe.,Le médecin a effectué une intubation pour aider le patient à respirer.
+707,intubation,intubation,The patient was intubated to help them breathe.,Le patient a été intubé pour l'aider à respirer.
+708,intubation,intubation,The patient underwent intubation to help them breathe.,Le patient a subi une intubation pour l'aider à respirer.
+709,intubation,intubation,The patient was intubated to help them breathe.,Le patient a été intubé pour l'aider à respirer.
+710,secretion,sécrétions|sécrétion,The body produces a secretion to help protect itself.,Le corps produit une sécrétion pour se protéger.
+711,secretion,sécrétions|sécrétion,The body produces a secretion to help protect itself.,Le corps produit une sécrétion pour aider à se protéger.
+712,secretion,sécrétions|sécrétion,The body produces a secretion to help protect itself.,Le corps produit une sécrétion pour aider à se protéger.
+713,secretion,sécrétions|sécrétion,The body produces a secretion to help protect itself from infection.,Le corps produit une sécrétion pour aider à se protéger des infections.
+714,secretion,sécrétions|sécrétion,The body produces a secretion to help protect itself from infection.,Le corps produit une sécrétion pour aider à se protéger des infections.
+715,touch,touchées|se toucher|toucher,"é
+
+""You got me there, touché!""","Tu m'as eu là, touché !"
+716,touch,touchées|se toucher|toucher,"é
+
+""Well played, you got me there - touché!""","""Bien joué, tu m'as eu là-bas - touché!"""
+717,touch,touchées|se toucher|toucher,"é
+
+""Well played, you got me there - touché!""","""Bien joué, tu m'as eu là - touché !"
+718,touch,touchées|se toucher|toucher,"é
+
+""You got me there, touché!""","""Tu m'as bien eu là, touché !"
+719,touch,touchées|se toucher|toucher,"é
+
+""Well played, I must say, touché!""","Bien joué, dois-je dire, touché !"
+720,detectable,détecté|détectable,The change was detectable.,Le changement était détectable.
+721,detectable,détecté|détectable,The change was detectable.,Le changement était détectable.
+722,detectable,détecté|détectable,The change was detectable.,Le changement était détectable.
+723,detectable,détecté|détectable,The change was detectable.,Le changement était détectable.
+724,detectable,détecté|détectable,The change was detectable.,Le changement était détectable.
+725,pneumonias,pneumonies,I have been diagnosed with pneumonia.,J'ai été diagnostiqué avec une pneumonie.
+726,pneumonias,pneumonies,I have been diagnosed with pneumonia.,J'ai été diagnostiqué avec la pneumonie.
+727,pneumonias,pneumonies,I have been diagnosed with pneumonia.,J'ai été diagnostiqué avec la pneumonie.
+728,pneumonias,pneumonies,I have been diagnosed with pneumonia.,J'ai été diagnostiqué avec une pneumonie.
+729,pneumonias,pneumonies,I have been diagnosed with pneumonia.,J'ai été diagnostiqué avec une pneumonie.
+730,hygiene,hygiène,Good hygiene is important for maintaining good health.,L'hygiène est importante pour maintenir une bonne santé.
+731,hygiene,hygiène,Good hygiene is important for staying healthy.,L'hygiène est importante pour rester en bonne santé.
+732,hygiene,hygiène,Good hygiene is important for maintaining a healthy lifestyle.,L'hygiène est importante pour maintenir un mode de vie sain.
+733,hygiene,hygiène,Good hygiene is important for maintaining good health.,L'hygiène est importante pour maintenir une bonne santé.
+734,hygiene,hygiène,Good hygiene is important for maintaining good health.,L'hygiène corporelle est importante pour maintenir une bonne santé.
+735,washing hands,lavage des mains|se laver les mains,It is important to wash your hands regularly.,Il est important de se laver les mains régulièrement.
+736,washing hands,lavage des mains|se laver les mains,It is important to wash your hands regularly.,Il est important de se laver les mains régulièrement.
+737,washing hands,lavage des mains|se laver les mains,It is important to wash your hands regularly.,Il est important de se laver les mains régulièrement.
+738,washing hands,lavage des mains|se laver les mains,It is important to wash your hands regularly.,Il est important de se laver les mains régulièrement.
+739,washing hands,lavage des mains|se laver les mains,It is important to wash your hands regularly.,Il est important de se laver les mains régulièrement.
+740,touching,toucher|touché|touche|touchant,I could feel the warmth of his touch.,Je pouvais sentir la chaleur de son toucher.
+741,touching,toucher|touché|touche|touchant,I felt a gentle touch on my shoulder.,J'ai senti une douce caresse sur mon épaule.
+742,touching,toucher|touché|touche|touchant,I could feel the warmth of his touch.,Je pouvais sentir la chaleur de son toucher.
+743,touching,toucher|touché|touche|touchant,I felt a gentle touch on my shoulder.,J'ai senti une douce touche sur mon épaule.
+744,touching,toucher|touché|touche|touchant,I love the feeling of touching your skin.,J'adore la sensation de toucher ta peau.
+745,community spread,propagation communautaire,The virus is spreading rapidly throughout the community.,Le virus se répand rapidement dans la communauté.
+746,community spread,propagation communautaire,The virus is spreading rapidly throughout the community.,Le virus se propage rapidement dans toute la communauté.
+747,community spread,propagation communautaire,The virus is spreading rapidly throughout the community.,Le virus se propage rapidement dans toute la communauté.
+748,community spread,propagation communautaire,The virus is spreading rapidly throughout the community.,Le virus se propage rapidement dans la communauté.
+749,community spread,propagation communautaire,The virus is spreading rapidly through the community.,Le virus se propage rapidement dans la communauté.
+750,precautions,précautions,Take precautions to ensure your safety.,Prenez des précautions pour garantir votre sécurité.
+751,precautions,précautions,Take precautions to ensure your safety.,Prenez des précautions pour assurer votre sécurité.
+752,precautions,précautions,Take precautions to ensure your safety.,Prenez des précautions pour assurer votre sécurité.
+753,precautions,précautions,Take precautions to ensure your safety.,Prenez des précautions pour assurer votre sécurité.
+754,precautions,précautions,Take precautions to ensure your safety.,Prenez des précautions pour assurer votre sécurité.
+755,sneeze,éternuez|éternué|éternuement,I sneezed.,Je ai éternué.
+756,sneeze,éternuez|éternué|éternuement,I just sneezed.,Je viens de faire un éternuement.
+757,sneeze,éternuez|éternué|éternuement,I just sneezed.,Je viens de éternuer.
+758,sneeze,éternuez|éternué|éternuement,I sneezed.,Je toussai.
+759,sneeze,éternuez|éternué|éternuement,I sneezed.,J'ai éternué.
+760,alcohol-based hand sanitizer,gel hydroalcoolique à base d' alcool|désinfectant pour les mains à base d' alcool,I always carry an alcohol-based hand sanitizer with me.,Je porte toujours un désinfectant pour les mains à base d'alcool avec moi.
+761,alcohol-based hand sanitizer,gel hydroalcoolique à base d' alcool|désinfectant pour les mains à base d' alcool,I always keep an alcohol-based hand sanitizer with me to stay germ-free.,Je garde toujours un désinfectant pour les mains à base d'alcool avec moi pour rester exempt de germes.
+762,alcohol-based hand sanitizer,gel hydroalcoolique à base d' alcool|désinfectant pour les mains à base d' alcool,I always carry an alcohol-based hand sanitizer with me.,Je porte toujours avec moi un désinfectant pour les mains à base d'alcool.
+763,alcohol-based hand sanitizer,gel hydroalcoolique à base d' alcool|désinfectant pour les mains à base d' alcool,I always keep an alcohol-based hand sanitizer with me to stay healthy.,Je garde toujours un désinfectant pour les mains à base d'alcool avec moi pour rester en bonne santé.
+764,alcohol-based hand sanitizer,gel hydroalcoolique à base d' alcool|désinfectant pour les mains à base d' alcool,I always carry an alcohol-based hand sanitizer with me.,Je transporte toujours un désinfectant pour les mains à base d'alcool avec moi.
+765,decontaminate,décontaminées|décontaminer,The room must be decontaminated before anyone can enter.,La pièce doit être décontaminée avant que quiconque puisse entrer.
+766,decontaminate,décontaminées|décontaminer,The room was decontaminated to ensure safety.,La pièce a été décontaminée pour assurer la sécurité.
+767,decontaminate,décontaminées|décontaminer,The room was decontaminated to ensure it was safe.,La pièce a été décontaminée pour s'assurer qu'elle était sûre.
+768,decontaminate,décontaminées|décontaminer,The room must be decontaminated before anyone can enter.,La pièce doit être désinfectée avant que quiconque puisse y entrer.
+769,decontaminate,décontaminées|décontaminer,The room was decontaminated to ensure safety.,La pièce a été décontaminée pour assurer la sécurité.
+770,isopropanol,isopropanol,Isopropanol is a colorless liquid.,L'isopropanol est un liquide incolore.
+771,isopropanol,isopropanol,Isopropanol is a colorless liquid.,L'isopropanol est un liquide incolore.
+772,isopropanol,isopropanol,Isopropanol is a colorless liquid.,L'isopropanol est un liquide incolore.
+773,isopropanol,isopropanol,Isopropanol is a colorless liquid.,Isopropanol est un liquide incolore.
+774,isopropanol,isopropanol,Isopropanol is a colorless liquid.,L'isopropanol est un liquide incolore.
+775,hydrogen peroxide,peroxyde d' hydrogène,Hydrogen peroxide is a chemical compound.,L'hydrogène peroxyde est un composé chimique.
+776,hydrogen peroxide,peroxyde d' hydrogène,Hydrogen peroxide is a chemical compound.,Le peroxyde d'hydrogène est un composé chimique.
+777,hydrogen peroxide,peroxyde d' hydrogène,Hydrogen peroxide is a chemical compound used as a disinfectant.,L'hydrogène peroxyde est un composé chimique utilisé comme désinfectant.
+778,hydrogen peroxide,peroxyde d' hydrogène,Hydrogen peroxide is a chemical compound.,Le peroxyde d'hydrogène est une composé chimique.
+779,hydrogen peroxide,peroxyde d' hydrogène,Hydrogen peroxide is a chemical compound.,Le peroxyde d'hydrogène est une substance chimique.
+780,disposable,jetables|jetable,I bought some disposable plates for the party.,J'ai acheté des assiettes jetables pour la fête.
+781,disposable,jetables|jetable,I bought a pack of disposable plates for the party.,J'ai acheté un paquet de plaques jetables pour la fête.
+782,disposable,jetables|jetable,I bought some disposable plates for the party.,J'ai acheté des assiettes jetables pour la fête.
+783,disposable,jetables|jetable,I bought some disposable cutlery for the party.,J'ai acheté des couverts jetables pour la fête.
+784,disposable,jetables|jetable,I bought some disposable plates for the party.,J'ai acheté des assiettes jetables pour la fête.
+785,face mask,masque|masque facial,I'm wearing a face mask to protect myself from getting sick.,Je porte un masque facial pour me protéger contre la maladie.
+786,face mask,masque|masque facial,I'm wearing a face mask to protect myself from getting sick.,Je porte un masque facial pour me protéger contre la contagion.
+787,face mask,masque|masque facial,I need to wear a face mask when I go out in public.,J'ai besoin de porter un masque facial lorsque je sors en public.
+788,face mask,masque|masque facial,I'm wearing a face mask to protect myself from getting sick.,Je porte un masque facial pour me protéger de tomber malade.
+789,face mask,masque|masque facial,I need to wear a face mask when I go out in public.,J'ai besoin de porter un masque facial lorsque je sors en public.
+790,social distancing,distanciation sociale,We should practice social distancing to help prevent the spread of illness.,Nous devrions practitioner le distanciement social pour aider à prévenir la propagation des maladies.
+791,social distancing,distanciation sociale,People should practice social distancing to help prevent the spread of disease.,Les gens devraient pratiquer la distanciation sociale pour aider à prévenir la propagation de la maladie.
+792,social distancing,distanciation sociale,People should practice social distancing to help prevent the spread of disease.,Les gens devraient pratiquer la distanciation sociale pour aider à prévenir la propagation de la maladie.
+793,social distancing,distanciation sociale,People should practice social distancing to help prevent the spread of disease.,Les gens devraient pratiquer la distanciation sociale pour aider à prévenir la propagation de la maladie.
+794,social distancing,distanciation sociale,People are encouraged to practice social distancing to help prevent the spread of COVID-19.,Les gens sont encouragés à pratiquer la distanciation sociale pour aider à prévenir la propagation du COVID-19.
+795,physical contact,contact physique,I need physical contact to feel connected to others.,J'ai besoin de contact physique pour me sentir connecté aux autres.
+796,physical contact,contact physique,I need physical contact to feel connected.,J'ai besoin de contact physique pour me sentir connecté.
+797,physical contact,contact physique,I need some physical contact.,J'ai besoin de contact physique.
+798,physical contact,contact physique,I need physical contact to feel connected to someone.,J'ai besoin de contact physique pour me sentir connecté à quelqu'un.
+799,physical contact,contact physique,I need physical contact to feel connected.,J'ai besoin de contact physique pour me sentir connecté.
+800,social isolation,isolement social,I'm feeling lonely due to social isolation.,Je me sens seul à cause de l'isolement social.
+801,social isolation,isolement social,I'm feeling lonely due to the social isolation caused by the pandemic.,Je me sens seul à cause de l'isolement social causé par la pandémie.
+802,social isolation,isolement social,I'm feeling lonely due to social isolation.,Je me sens seul en raison de l'isolement social.
+803,social isolation,isolement social,I'm feeling lonely due to social isolation.,Je me sens solitaire en raison de l'isolement social.
+804,social isolation,isolement social,I'm feeling lonely due to the social isolation caused by the pandemic.,Je me sens seul en raison de l'isolement social provoqué par la pandémie.
+805,widespread transmission,transmission généralisée,The virus has had a widespread transmission across the country.,Le virus a eu une transmission largement répandue dans le pays.
+806,widespread transmission,transmission généralisée,The virus has experienced widespread transmission across the country.,Le virus a connu une transmission largement répandue à travers le pays.
+807,widespread transmission,transmission généralisée,The virus has had a widespread transmission across the country.,Le virus a eu une transmission généralisée à travers le pays.
+808,widespread transmission,transmission généralisée,The virus has had a widespread transmission across the country.,Le virus a eu une transmission généralisée à travers le pays.
+809,widespread transmission,transmission généralisée,The virus has experienced widespread transmission across the country.,Le virus a connu une transmission répandue dans tout le pays.
+810,disease outbreak,apparition de maladie|épidémie,There has been an outbreak of disease in the area.,Il y a eu une épidémie de maladie dans la région.
+811,disease outbreak,apparition de maladie|épidémie,There has been a sudden outbreak of disease in the area.,Il y a eu une brusque épidémie de la maladie dans la zone.
+812,disease outbreak,apparition de maladie|épidémie,There has been a sudden outbreak of disease in the area.,Il y a eu une soudaine éclosion de maladie dans la zone.
+813,disease outbreak,apparition de maladie|épidémie,There has been a sudden outbreak of a new disease.,Il y a eu une soudaine éclosion d'une nouvelle maladie.
+814,disease outbreak,apparition de maladie|épidémie,There has been an outbreak of a new disease.,Il y a eu une éclosion d'une nouvelle maladie.
+815,epidemic peak,pic épidémique,The epidemic has reached its peak.,L'épidémie a atteint son pic.
+816,epidemic peak,pic épidémique,The epidemic has reached its peak.,L'épidémie a atteint son pic.
+817,epidemic peak,pic épidémique,The number of cases of the epidemic has reached its peak.,Le nombre de cas de l'épidémie a atteint son pic.
+818,epidemic peak,pic épidémique,The epidemic has reached its peak.,L'épidémie a atteint son point culminant.
+819,epidemic peak,pic épidémique,The epidemic has reached its peak.,L'épidémie a atteint son point culminant.
+820,epidemic curve,courbe épidémique,The epidemic curve shows the rate of infection over time.,La courbe épidémique montre le taux d'infection au fil du temps.
+821,epidemic curve,courbe épidémique,The epidemic curve shows the spread of the disease over time.,La courbe de l'épidémie montre la propagation de la maladie au fil du temps.
+822,epidemic curve,courbe épidémique,"The number of cases of the disease is increasing rapidly, forming an epidemic curve.","Le nombre de cas de la maladie augmente rapidement, formant une courbe épidémique."
+823,epidemic curve,courbe épidémique,The epidemic curve shows the spread of the disease over time.,La courbe épidémique montre la propagation de la maladie dans le temps.
+824,epidemic curve,courbe épidémique,The epidemic curve shows the spread of the disease over time.,La courbe épidémique montre la propagation de la maladie dans le temps.
+825,health services,services de santé,Access to quality health services is essential for a healthy life.,L'accès à des services de santé de qualité est essentiel pour une vie saine.
+826,health services,services de santé,I am thankful for the health services available to me.,Je suis reconnaissant des services de santé qui me sont disponibles.
+827,health services,services de santé,Access to quality health services is essential for a healthy society.,L'accès aux services de santé de qualité est essentiel pour une société en bonne santé.
+828,health services,services de santé,Access to quality health services is essential for a healthy life.,L'accès à des services de santé de qualité est essentiel pour une vie saine.
+829,health services,services de santé,I am looking for health services in my area.,Je cherche des services de santé dans ma région.
+830,ventilators,ventilateurs,Hospitals are in need of ventilators to help treat patients with severe respiratory illnesses.,Les hôpitaux ont besoin de ventilateurs pour aider les patients atteints de maladies respiratoires graves.
+831,ventilators,ventilateurs,Hospitals are in need of ventilators to help treat patients with severe respiratory illnesses.,Les hôpitaux ont besoin de respirateurs pour aider à traiter les patients atteints de maladies respiratoires sévères.
+832,ventilators,ventilateurs,Hospitals are in need of ventilators to help treat patients with severe respiratory illnesses.,Les hôpitaux ont besoin d'assistants respiratoires pour aider à traiter les patientes présentant des maladies respiratoires sévères.
+833,ventilators,ventilateurs,Hospitals are in need of ventilators to help treat patients with severe respiratory illnesses.,Les hôpitaux ont besoin de respirateurs pour aider à traiter les patients atteints de maladies respiratoires sévères.
+834,ventilators,ventilateurs,Hospitals are in desperate need of ventilators to help treat patients with severe respiratory illnesses.,Les hôpitaux ont un besoin urgent de respirateurs pour aider à traiter les patients atteints de maladies respiratoires sévères.
+835,virus spread,propagation du virus,The virus is spreading rapidly.,Le virus se répand rapidement.
+836,virus spread,propagation du virus,The virus is spreading rapidly.,Le virus se propage rapidement.
+837,virus spread,propagation du virus,The virus is spreading rapidly.,Le virus se propage rapidement.
+838,virus spread,propagation du virus,The virus is spreading rapidly.,Le virus se propage rapidement.
+839,virus spread,propagation du virus,The virus is spreading rapidly.,Le virus se propage rapidement.
+840,mandatory quarantine,quarantaine obligatoire,All travelers must adhere to the mandatory quarantine.,Tous les voyageurs doivent se conformer à la quarantaine obligatoire.
+841,mandatory quarantine,quarantaine obligatoire,All travelers must comply with the mandatory quarantine.,Tous les voyageurs doivent se conformer à la quarantaine obligatoire.
+842,mandatory quarantine,quarantaine obligatoire,All travelers must adhere to the mandatory quarantine.,Tous les voyageurs doivent se conformer à la quarantaine obligatoire.
+843,mandatory quarantine,quarantaine obligatoire,All travelers must comply with the mandatory quarantine.,Tous les voyageurs doivent se conformer à la quarantaine obligatoire.
+844,mandatory quarantine,quarantaine obligatoire,All travelers must adhere to the mandatory quarantine period.,Tous les voyageurs doivent se conformer à la période de quarantaine obligatoire.
+845,medical care,soins médicaux,I need to get medical care.,J'ai besoin d'obtenir des soins médicaux.
+846,medical care,soins médicaux,I need to get medical care.,J'ai besoin de prendre soin médical.
+847,medical care,soins médicaux,I need to seek medical care.,J'ai besoin de soins médicaux.
+848,medical care,soins médicaux,I need to seek medical care.,J'ai besoin de recevoir des soins médicaux.
+849,medical care,soins médicaux,I need to seek medical care.,J'ai besoin de chercher des soins médicaux.
+850,viral outbreak,épidémie virale,There has been a sudden outbreak of a viral illness.,Il y a eu une épidémie soudaine d'une maladie virale.
+851,viral outbreak,épidémie virale,There has been a sudden outbreak of a viral illness.,Il y a eu une brusque éclosion d'une maladie virale.
+852,viral outbreak,épidémie virale,There has been a sudden outbreak of a dangerous virus.,Il y a eu une éclosion soudaine d'un virus dangereux.
+853,viral outbreak,épidémie virale,There has been a sudden and widespread viral outbreak.,Il y a eu une épidémie virale soudaine et largement répandue.
+854,viral outbreak,épidémie virale,There has been a sudden outbreak of a viral illness.,Il y a eu une brusque flambée d'une maladie virale.
+855,quarantine measures,mesures de quarantaine|mesure de quarantaine,Governments around the world are implementing strict quarantine measures to help slow the spread of the virus.,Les gouvernements du monde entier mettent en place des mesures de quarantaine strictes pour aider à ralentir la propagation du virus.
+856,quarantine measures,mesures de quarantaine|mesure de quarantaine,The government has implemented strict quarantine measures to help prevent the spread of the virus.,Le gouvernement a mis en place des mesures de quarantaine strictes pour aider à prévenir la propagation du virus.
+857,quarantine measures,mesures de quarantaine|mesure de quarantaine,Governments around the world are implementing strict quarantine measures to help stop the spread of the virus.,Les gouvernements du monde entier mettent en place des mesures de quarantaine strictes pour aider à arrêter la propagation du virus.
+858,quarantine measures,mesures de quarantaine|mesure de quarantaine,The government has implemented strict quarantine measures to prevent the spread of the virus.,Le gouvernement a mis en place des mesures de quarantaine strictes pour prévenir la propagation du virus.
+859,quarantine measures,mesures de quarantaine|mesure de quarantaine,Governments around the world are implementing strict quarantine measures to help prevent the spread of the virus.,Les gouvernements du monde entier mettent en place des mesures de quarantaine strictes pour aider à prévenir la propagation du virus.
+860,social distancing measures,mesures de distanciation sociale,"""We must all follow the social distancing measures to help prevent the spread of the virus.""",Nous devons tous respecter les mesures de distanciation sociale pour aider à prévenir la propagation du virus.
+861,social distancing measures,mesures de distanciation sociale,"""We must take social distancing measures to help prevent the spread of the virus.""",Nous devons prendre des mesures de distanciation sociale pour aider à prévenir la propagation du virus.
+862,social distancing measures,mesures de distanciation sociale,"""We must all adhere to the social distancing measures put in place to help protect our community.""",Nous devons tous nous conformer aux mesures de distanciation sociale instaurées pour aider à protéger notre communauté.
+863,social distancing measures,mesures de distanciation sociale,"""We must all adhere to the social distancing measures to help prevent the spread of the virus.""",Nous devons tous nous conformer aux mesures de distanciation sociale pour aider à prévenir la propagation du virus.
+864,social distancing measures,mesures de distanciation sociale,"""We must adhere to social distancing measures to help prevent the spread of the virus.""",Nous devons nous conformer aux mesures de distanciation sociale pour aider à prévenir la propagation du virus.
+865,Center for Disease Control,Centre de contrôle des maladies,The Center for Disease Control is working to protect public health and safety.,Le Centre de contrôle des maladies travaille à protéger la santé et la sécurité publiques.
+866,Center for Disease Control,Centre de contrôle des maladies,The Center for Disease Control is working to protect public health and safety.,Le Centre de contrôle des maladies travaille pour protéger la santé et la sécurité publiques.
+867,Center for Disease Control,Centre de contrôle des maladies,The Center for Disease Control is working to protect public health and safety.,Le Centre de contrôle des maladies travaille pour protéger la santé et la sécurité publiques.
+868,Center for Disease Control,Centre de contrôle des maladies,The Center for Disease Control is working to protect public health and safety.,Le Centre de contrôle des maladies travaille à protéger la santé et la sécurité publiques.
+869,Center for Disease Control,Centre de contrôle des maladies,The Center for Disease Control is working to prevent the spread of infectious diseases.,Le Centre de contrôle des maladies travaille à prévenir la propagation des maladies infectieuses.
+870,new Coronavirus,nouveau coronavirus,The new Coronavirus is causing global concern.,Le nouveau coronavirus suscite des inquiétudes à l'échelle mondiale.
+871,new Coronavirus,nouveau coronavirus,The new Coronavirus is causing a global health crisis.,Le nouveau coronavirus cause une crise sanitaire mondiale.
+872,new Coronavirus,nouveau coronavirus,The world is facing a new Coronavirus outbreak.,Le monde fait face à une nouvelle épidémie de coronavirus.
+873,new Coronavirus,nouveau coronavirus,The world is facing a new Coronavirus outbreak.,Le monde est confronté à une nouvelle épidémie de coronavirus.
+874,new Coronavirus,nouveau coronavirus,The new Coronavirus is causing global concern.,Le nouveau coronavirus suscite des inquiétudes à l'échelle mondiale.
+875,epidemiologist,épidémiologistes|épidémiologiste,An epidemiologist is a scientist who studies the spread of diseases.,Le nouveau coronavirus suscite des inquiétudes à l'échelle mondiale.
+876,epidemiologist,épidémiologistes|épidémiologiste,An epidemiologist is a scientist who studies the spread of diseases.,Un épidémiologiste est un scientifique qui étudie la propagation des maladies.
+877,epidemiologist,épidémiologistes|épidémiologiste,An epidemiologist is a scientist who studies the spread of diseases.,Un épidémiologiste est un scientifique qui étudie la propagation des maladies.
+878,epidemiologist,épidémiologistes|épidémiologiste,An epidemiologist is a scientist who studies the spread of diseases.,Un épidémiologiste est un scientifique qui étudie la propagation des maladies.
+879,epidemiologist,épidémiologistes|épidémiologiste,An epidemiologist is a scientist who studies the spread of diseases.,Un épidémiologiste est un scientifique qui étudie la propagation des maladies.
+880,Coronavirus infection,infection par coronavirus,I have been infected with the coronavirus.,J'ai été infecté par le coronavirus.
+881,Coronavirus infection,infection par coronavirus,I have been infected with the Coronavirus.,J'ai été infecté par le Coronavirus.
+882,Coronavirus infection,infection par coronavirus,I have been diagnosed with a coronavirus infection.,J'ai été diagnostiqué avec une infection à coronavirus.
+883,Coronavirus infection,infection par coronavirus,I have been infected with the Coronavirus.,J'ai été infecté par le Coronavirus.
+884,Coronavirus infection,infection par coronavirus,I have been infected with the Coronavirus.,J'ai été infecté par le Coronavirus.
+885,quarantine facility,installation de quarantaine,The government has set up a quarantine facility to help contain the spread of the virus.,Le gouvernement a mis en place une installation de quarantaine pour aider à contenir la propagation du virus.
+886,quarantine facility,installation de quarantaine,The government has set up a quarantine facility to help contain the spread of the virus.,Le gouvernement a mis en place une installation de quarantaine pour aider à contenir la propagation du virus.
+887,quarantine facility,installation de quarantaine,The government has set up a quarantine facility to help contain the spread of the virus.,Le gouvernement a mis en place un établissement de quarantaine pour aider à contenir la propagation du virus.
+888,quarantine facility,installation de quarantaine,People are being held in a quarantine facility to prevent the spread of the virus.,Les gens sont retenus dans une installation de quarantaine pour empêcher la propagation du virus.
+889,quarantine facility,installation de quarantaine,People are being held in a quarantine facility to prevent the spread of the virus.,Les gens sont retenus dans un centre de quarantaine pour prévenir la propagation du virus.
+890,repatriate,rapatrier|rapatriés|rapatrié,The company will repatriate its employees who are currently abroad.,L'entreprise rapatriera ses employés qui sont actuellement à l'étranger.
+891,repatriate,rapatrier|rapatriés|rapatrié,The government will repatriate citizens who have been living abroad.,Le gouvernement va rapatrier les citoyens qui ont vécu à l'étranger.
+892,repatriate,rapatrier|rapatriés|rapatrié,The government has decided to repatriate all citizens living abroad.,Le gouvernement a décidé de rapatrier tous les citoyens vivant à l'étranger.
+893,repatriate,rapatrier|rapatriés|rapatrié,The government is working to repatriate citizens who have been living abroad.,Le Gouvernement travaille à rapatrier les citoyens qui ont été à vivre à l'étranger.
+894,repatriate,rapatrier|rapatriés|rapatrié,The government is working to repatriate citizens who were stranded abroad due to the pandemic.,Le gouvernement travaille à rapatrier les citoyens qui ont été bloqués à l'étranger en raison de la pandémie.
+895,precautionary,préventif,It is always best to take precautionary measures.,Il est toujours préférable de prendre des mesures de précaution.
+896,precautionary,préventif,It is always wise to take precautionary measures.,Il est toujours sage de prendre des mesures de précaution.
+897,precautionary,préventif,It is always best to take precautionary measures to ensure safety.,Il est toujours préférable de prendre des mesures de précaution pour assurer la sécurité.
+898,precautionary,préventif,It is always best to take precautionary measures to ensure safety.,Il est toujours préférable de prendre des mesures de précaution pour assurer la sécurité.
+899,precautionary,préventif,It is always best to take precautionary measures to ensure safety.,Il est toujours préférable de prendre des mesures préventives pour assurer la sécurité.
+900,personal protective equipment,équipements de protection individuelle|équipement de protection individuelle,I need to wear personal protective equipment when working in the lab.,J'ai besoin de porter des équipements de protection individuelle lorsque je travaille dans le laboratoire.
+901,personal protective equipment,équipements de protection individuelle|équipement de protection individuelle,I need to wear personal protective equipment when working in the lab.,J'ai besoin de porter des équipements de protection individuelle lorsque je travaille dans le laboratoire.
+902,personal protective equipment,équipements de protection individuelle|équipement de protection individuelle,I need to wear personal protective equipment when working in the lab.,J'ai besoin de porter des équipements de protection individuelle lorsque je travaille dans le laboratoire.
+903,personal protective equipment,équipements de protection individuelle|équipement de protection individuelle,I need to wear personal protective equipment for my job.,J'ai besoin de porter des équipements de protection individuelle pour mon travail.
+904,personal protective equipment,équipements de protection individuelle|équipement de protection individuelle,I need to wear personal protective equipment for my job.,J'ai besoin de porter des équipements de protection personnelle pour mon travail.
+905,Coronavirus outbreak,épidémie de coronavirus,The outbreak of the Coronavirus has caused widespread panic.,L'éclosion du Coronavirus a provoqué une panique généralisée.
+906,Coronavirus outbreak,épidémie de coronavirus,The outbreak of the Coronavirus has caused widespread panic.,L'éclosion du Coronavirus a causé une panique généralisée.
+907,Coronavirus outbreak,épidémie de coronavirus,The outbreak of the Coronavirus has caused widespread concern.,L'éclosion du Coronavirus a provoqué une préoccupation généralisée.
+908,Coronavirus outbreak,épidémie de coronavirus,The outbreak of the Coronavirus has caused widespread panic.,L'éclosion du Coronavirus a provoqué une panique généralisée.
+909,Coronavirus outbreak,épidémie de coronavirus,The outbreak of the Coronavirus has caused widespread concern.,L'éclosion du Coronavirus a provoqué une préoccupation générale.
+910,current crisis,crise actuelle,The current crisis is causing unprecedented disruption.,La crise actuelle cause une perturbation sans précédent.
+911,current crisis,crise actuelle,The current crisis is causing unprecedented disruption.,La crise actuelle cause une perturbation sans précédent.
+912,current crisis,crise actuelle,The current crisis is causing major disruption around the world.,La crise actuelle cause des perturbations majeures dans le monde entier.
+913,current crisis,crise actuelle,The current crisis is causing unprecedented disruption.,La crise actuelle provoque une perturbation sans précédent.
+914,current crisis,crise actuelle,The current crisis is causing unprecedented disruption.,La crise actuelle cause une perturbation sans précédent.
+915,global pandemic,pandémie mondiale,The world is currently facing a global pandemic.,Le monde fait actuellement face à une pandémie mondiale.
+916,global pandemic,pandémie mondiale,The world is currently facing a global pandemic.,Le monde fait actuellement face à une pandémie mondiale.
+917,global pandemic,pandémie mondiale,The world is currently facing a global pandemic.,Le monde fait actuellement face à une pandémie mondiale.
+918,global pandemic,pandémie mondiale,The world is currently facing a global pandemic.,Le monde est actuellement confronté à une pandémie mondiale.
+919,global pandemic,pandémie mondiale,The world is facing a global pandemic.,Le monde fait face à une pandémie mondiale.
+920,COVID-19 crisis,crise du COVID-19,The COVID-19 crisis has had a major impact on the world.,La crise du COVID-19 a eu un impact majeur sur le monde.
+921,COVID-19 crisis,crise du COVID-19,The COVID-19 crisis has had a profound impact on the world.,La crise du COVID-19 a eu un impact profond sur le monde.
+922,COVID-19 crisis,crise du COVID-19,The COVID-19 crisis has had a major impact on the world.,La crise du COVID-19 a eu un impact majeur sur le monde.
+923,COVID-19 crisis,crise du COVID-19,The COVID-19 crisis has had a major impact on the world.,La crise du COVID-19 a eu un impact majeur sur le monde.
+924,COVID-19 crisis,crise du COVID-19,The COVID-19 crisis has had a major impact on the world.,La crise de COVID-19 a eu un impact majeur sur le monde.
+925,mass gathering,rassemblement de masse,"People gathered in large numbers for the event, creating a mass gathering.","Les gens se sont rassemblés en grand nombre pour l'événement, créant une grande foule."
+926,mass gathering,rassemblement de masse,"People gathered in large numbers for the event, creating a mass gathering.","Les gens se sont rassemblés en grand nombre pour l'événement, ce qui a créé une foule massive."
+927,mass gathering,rassemblement de masse,"People gathered in large numbers for the event, creating a mass gathering.","Les gens se sont rassemblés en grand nombre pour l'événement, formant une foule massive."
+928,mass gathering,rassemblement de masse,"People gathered in large numbers for the event, creating a mass gathering.","Les gens se sont rassemblés en grand nombre pour l'événement, créant un rassemblement de masse."
+929,mass gathering,rassemblement de masse,People gathered in large numbers for the annual festival.,Les gens se sont rassemblés en grand nombre pour le festival annuel.
+930,laboratory testing,test en laboratoire,The laboratory is conducting tests to determine the accuracy of the results.,Le laboratoire mène des tests pour déterminer la précision des résultats.
+931,laboratory testing,test en laboratoire,The laboratory is conducting tests to determine the accuracy of the results.,Le laboratoire effectue des tests pour déterminer la précision des résultats.
+932,laboratory testing,test en laboratoire,The laboratory is conducting tests to determine the accuracy of the results.,Le laboratoire mène des tests pour déterminer la précision des résultats.
+933,laboratory testing,test en laboratoire,The laboratory is conducting tests to determine the accuracy of the results.,Le laboratoire mène des tests pour déterminer la précision des résultats.
+934,laboratory testing,test en laboratoire,The laboratory is conducting tests to determine the accuracy of the results.,Le laboratoire effectue des tests pour déterminer la précision des résultats.
+935,mortality rate,taux de mortalité,The mortality rate is increasing.,Le taux de mortalité augmente.
+936,mortality rate,taux de mortalité,The mortality rate is increasing.,Le taux de mortalité augmente.
+937,mortality rate,taux de mortalité,The mortality rate is increasing.,Le taux de mortalité est en augmentation.
+938,mortality rate,taux de mortalité,The mortality rate is increasing.,Le taux de mortalité est en augmentation.
+939,mortality rate,taux de mortalité,The mortality rate is increasing.,Le taux de mortalité est en augmentation.
+940,test kit,kit de test,I need to purchase a test kit to check for the presence of bacteria.,J'ai besoin d'acheter un kit de test pour vérifier la présence de bactéries.
+941,test kit,kit de test,I need to buy a test kit to check for any problems.,Je dois acheter un kit de test pour vérifier s'il y a des problèmes.
+942,test kit,kit de test,I need to buy a test kit to check for any problems.,J'ai besoin d'acheter un kit de test pour vérifier s'il y a des problèmes.
+943,test kit,kit de test,I need to purchase a test kit to complete the experiment.,J'ai besoin d'acheter un kit de test pour compléter l'expérience.
+944,test kit,kit de test,I need to buy a test kit to check for any problems.,J'ai besoin d'acheter un kit de test pour vérifier s'il y a des problèmes.
+945,reagent,réactifs|réactif,I need to purchase a reagent for my experiment.,J'ai besoin d'acheter un réactif pour mon expérience.
+946,reagent,réactifs|réactif,I need to purchase a reagent for my experiment.,J'ai besoin d'acheter un réactif pour mon expérience.
+947,reagent,réactifs|réactif,I need to purchase a reagent for my experiment.,J'ai besoin d'acheter un réactif pour mon expérience.
+948,reagent,réactifs|réactif,I need to purchase a reagent for my experiment.,J'ai besoin d'acheter un réactif pour mon expérience.
+949,reagent,réactifs|réactif,I need to purchase a reagent for this experiment.,J'ai besoin d'acheter un réactif pour cette expérience.
+950,current pandemic,pandémie actuelle,The current pandemic has caused unprecedented disruption around the world.,La pandémie actuelle a causé une perturbation sans précédent dans le monde entier.
+951,current pandemic,pandémie actuelle,The current pandemic is causing unprecedented disruption around the world.,La pandémie actuelle cause une perturbation sans précédent dans le monde entier.
+952,current pandemic,pandémie actuelle,The current pandemic is causing unprecedented disruption around the world.,La pandémie actuelle cause une perturbation sans précédent à travers le monde.
+953,current pandemic,pandémie actuelle,The current pandemic is causing unprecedented disruption around the world.,La pandémie actuelle cause une perturbation sans précédent dans le monde entier.
+954,current pandemic,pandémie actuelle,The current pandemic is having a devastating effect on the global population.,La pandémie actuelle a un effet dévastateur sur la population mondiale.
+955,healthcare professional,professionnel de santé,A healthcare professional is someone who provides medical care and advice.,Un professionnel de la santé est quelqu'un qui fournit des soins médicaux et des conseils.
+956,healthcare professional,professionnel de santé,A healthcare professional is someone who provides medical care and advice.,Un professionnel de la santé est quelqu'un qui fournit des soins médicaux et des conseils.
+957,healthcare professional,professionnel de santé,A healthcare professional is someone who provides medical care and advice.,Un professionnel de la santé est quelqu'un qui fournit des soins médicaux et des conseils.
+958,healthcare professional,professionnel de santé,A healthcare professional is someone who provides medical services to patients.,Un professionnel de la santé est quelqu'un qui fournit des services médicaux aux patients.
+959,healthcare professional,professionnel de santé,A healthcare professional is someone who provides medical care and advice.,Un professionnel de la santé est quelqu'un qui fournit des soins médicaux et des conseils.
+960,2020 Coronavirus,coronavirus 2020,2020 has been a difficult year due to the Coronavirus pandemic.,2020 a été une année difficile à cause de la pandémie de coronavirus.
+961,2020 Coronavirus,coronavirus 2020,2020 has been a difficult year due to the Coronavirus pandemic.,2020 a été une année difficile en raison de la pandémie de Coronavirus.
+962,2020 Coronavirus,coronavirus 2020,2020 has been a difficult year due to the Coronavirus pandemic.,2020 a été une année difficile en raison de la pandémie de coronavirus.
+963,2020 Coronavirus,coronavirus 2020,2020 has been a difficult year due to the Coronavirus pandemic.,2020 a été une année difficile en raison de la pandémie de Coronavirus.
+964,2020 Coronavirus,coronavirus 2020,2020 has been a difficult year due to the Coronavirus pandemic.,2020 a été une année difficile à cause de la pandémie de Coronavirus.
+965,detergent,détergents|détergent,I need to buy some detergent to wash my clothes.,J'ai besoin d'acheter un détergent pour laver mes vêtements.
+966,detergent,détergents|détergent,I need to buy some detergent to wash my clothes.,J'ai besoin d'acheter du détergent pour laver mes vêtements.
+967,detergent,détergents|détergent,I need to buy some detergent to do my laundry.,J'ai besoin d'acheter du détergent pour faire ma lessive.
+968,detergent,détergents|détergent,I need to buy some detergent to do my laundry.,J'ai besoin d'acheter du détergent pour faire ma lessive.
+969,detergent,détergents|détergent,I need to buy some detergent to do my laundry.,J'ai besoin d'acheter du détergent pour faire ma lessive.
+970,hand sanitizer,gel hydroalcoolique|désinfectant pour les mains,I always keep a bottle of hand sanitizer in my bag.,Je garde toujours une bouteille de désinfectant pour les mains dans mon sac.
+971,hand sanitizer,gel hydroalcoolique|désinfectant pour les mains,I always keep a bottle of hand sanitizer in my purse.,Je garde toujours une bouteille de désinfectant pour les mains dans mon sac à main.
+972,hand sanitizer,gel hydroalcoolique|désinfectant pour les mains,I always keep a bottle of hand sanitizer in my bag.,Je garde toujours une bouteille de désinfectant pour les mains dans mon sac.
+973,hand sanitizer,gel hydroalcoolique|désinfectant pour les mains,I always keep a bottle of hand sanitizer in my purse.,J'ai toujours une bouteille de désinfectant pour les mains dans mon sac à main.
+974,hand sanitizer,gel hydroalcoolique|désinfectant pour les mains,I always keep a bottle of hand sanitizer in my bag.,Je garde toujours une bouteille de désinfectant pour les mains dans mon sac.
+975,alcohol-based,à base d' alcool,I prefer to use alcohol-based products for cleaning.,Je préfère utiliser des produits à base d'alcool pour le nettoyage.
+976,alcohol-based,à base d' alcool,I need to use an alcohol-based sanitizer.,J'ai besoin d'utiliser un désinfectant à base d'alcool.
+977,alcohol-based,à base d' alcool,I'm going to a party tonight and I'm bringing an alcohol-based drink.,Je vais à une fête ce soir et je vais apporter une boisson à base d'alcool.
+978,alcohol-based,à base d' alcool,I'm going to buy some alcohol-based hand sanitizer.,Je vais acheter du désinfectant pour les mains à base d'alcool.
+979,alcohol-based,à base d' alcool,I'm going to a party tonight and I'm bringing an alcohol-based drink.,Je vais à une fête ce soir et je vais apporter une boisson à base d'alcool.
+980,HIV,VIH,I am HIV positive.,Je suis séropositif.
+981,HIV,VIH,HIV is a virus that can lead to serious health complications.,Le VIH est un virus qui peut conduire à de graves complications de santé.
+982,HIV,VIH,HIV is a virus that can lead to AIDS.,Le VIH est un virus qui peut conduire à l'AIDS.
+983,HIV,VIH,HIV is a virus that can lead to serious health complications.,Le VIH est un virus qui peut entraîner de graves complications de santé.
+984,HIV,VIH,"HIV is a virus that can lead to a serious, life-threatening illness.",Le VIH est un virus qui peut conduire à une maladie grave et potentiellement mortelle.
+985,hand-washing,lavage des mains,I always make sure to practice good hygiene by washing my hands regularly.,Je fais toujours en sorte de pratiquer une bonne hygiène en lavant régulièrement mes mains.
+986,hand-washing,lavage des mains,I always make sure to practice good hygiene by washing my hands regularly.,Je m'assure toujours de pratiquer une bonne hygiène en lavant fréquemment mes mains.
+987,hand-washing,lavage des mains,I always make sure to practice proper hand-washing.,Je m'assure toujours de pratiquer un bon lavage des mains.
+988,hand-washing,lavage des mains,I always make sure to practice proper hand-washing.,Je m'assure toujours de pratiquer un bon lavage des mains.
+989,hand-washing,lavage des mains,I always make sure to practice proper hand-washing.,Je m'assure toujours de pratiquer un lavage des mains approprié.
+990,international travel,voyage international,I love to travel internationally and explore different cultures.,J'aime voyager à l'international et explorer différentes cultures.
+991,international travel,voyage international,I love to explore the world through international travel.,J'adore explorer le monde à travers les voyages internationaux.
+992,international travel,voyage international,I love to travel internationally and explore different cultures.,J'aime voyager à l'étranger et explorer différentes cultures.
+993,international travel,voyage international,I love to travel internationally and experience different cultures.,J'aime voyager à l'étranger et découvrir différentes cultures.
+994,international travel,voyage international,I love to travel internationally and explore new cultures.,J'adore voyager à l'international et explorer de nouvelles cultures.
+995,sneezes,éternue|éternuer|éternuements,I sneezed.,Je toussai.
+996,sneezes,éternue|éternuer|éternuements,I sneezed.,Je ai éternué.
+997,sneezes,éternue|éternuer|éternuements,She sneezed loudly.,Elle a éternué fort.
+998,sneezes,éternue|éternuer|éternuements,She sneezed loudly.,Elle a éternué bruyamment.
+999,sneezes,éternue|éternuer|éternuements,She sneezed loudly.,Elle a éternué bruyamment.
+1000,medicines,médicaments,I need to take my medicines every day.,J'ai besoin de prendre mes médicaments tous les jours.
+1001,medicines,médicaments,I need to take my medicines every day.,J'ai besoin de prendre mes médicaments tous les jours.
+1002,medicines,médicaments,I need to take my medicines every day.,J'ai besoin de prendre mes médicaments tous les jours.
+1003,medicines,médicaments,I need to take my medicines every day.,J'ai besoin de prendre mes médicaments chaque jour.
+1004,medicines,médicaments,I need to take my medicines every day.,J'ai besoin de prendre mes médicaments chaque jour.
+1005,respirator,appareil respiratoire,I need to wear a respirator to protect myself from airborne particles.,J'ai besoin de porter un respirateur pour me protéger des particules en suspension dans l'air.
+1006,respirator,appareil respiratoire,I need to wear a respirator to protect myself from airborne particles.,J'ai besoin de porter un respirateur pour me protéger des particules en suspension dans l'air.
+1007,respirator,appareil respiratoire,I need to wear a respirator to protect myself from airborne particles.,J'ai besoin de porter un respirateur pour me protéger des particules en suspension dans l'air.
+1008,respirator,appareil respiratoire,I need to wear a respirator to protect myself from airborne particles.,J'ai besoin de porter un respirateur pour me protéger des particules en suspension dans l'air.
+1009,respirator,appareil respiratoire,I need to wear a respirator to protect myself from airborne particles.,J'ai besoin de porter un respirateur pour me protéger des particules en suspension dans l'air.
+1010,COVID-19 virus,virus du COVID-19|virus COVID-19|virus de la COVID-19,The COVID-19 virus has caused a global pandemic.,Le virus COVID-19 a provoqué une pandémie mondiale.
+1011,COVID-19 virus,virus du COVID-19|virus COVID-19|virus de la COVID-19,The COVID-19 virus has caused a global pandemic.,Le virus COVID-19 a causé une pandémie mondiale.
+1012,COVID-19 virus,virus du COVID-19|virus COVID-19|virus de la COVID-19,The COVID-19 virus has caused a global pandemic.,Le virus COVID-19 a causé une pandémie mondiale.
+1013,COVID-19 virus,virus du COVID-19|virus COVID-19|virus de la COVID-19,The COVID-19 virus has caused a global pandemic.,Le virus COVID-19 a provoqué une pandémie mondiale.
+1014,COVID-19 virus,virus du COVID-19|virus COVID-19|virus de la COVID-19,The COVID-19 virus has caused a global pandemic.,Le virus COVID-19 a provoqué une pandémie mondiale.
+1015,wash your hands,lavez-vous les mains|vous laver les mains|laver les mains|se laver les mains,Remember to wash your hands before eating!,Rappelez-vous de vous laver les mains avant de manger!
+1016,wash your hands,lavez-vous les mains|vous laver les mains|laver les mains|se laver les mains,"""Remember to wash your hands before eating!""",N'oubliez pas de vous laver les mains avant de manger !
+1017,wash your hands,lavez-vous les mains|vous laver les mains|laver les mains|se laver les mains,Remember to wash your hands before eating!,N'oubliez pas de vous laver les mains avant de manger !
+1018,wash your hands,lavez-vous les mains|vous laver les mains|laver les mains|se laver les mains,Remember to wash your hands before eating!,N'oublie pas de te laver les mains avant de manger !
+1019,wash your hands,lavez-vous les mains|vous laver les mains|laver les mains|se laver les mains,Remember to wash your hands before eating.,Rappelez-vous de lavée vos mains avant de manger.
+1020,heart failure,insuffisance cardiaque,My grandmother was recently diagnosed with heart failure.,Ma grand-mère a été récemment diagnostiquée avec une insuffisance cardiaque.
+1021,heart failure,insuffisance cardiaque,My grandmother was recently diagnosed with heart failure.,Ma grand-mère a récemment été diagnostiquée avec une insuffisance cardiaque.
+1022,heart failure,insuffisance cardiaque,She was diagnosed with heart failure and had to be hospitalized.,Elle a été diagnostiquée avec une insuffisance cardiaque et a dû être hospitalisée.
+1023,heart failure,insuffisance cardiaque,I was diagnosed with heart failure.,J'ai été diagnostiqué avec une insuffisance cardiaque.
+1024,heart failure,insuffisance cardiaque,He was hospitalized for heart failure.,Il a été hospitalisé pour insuffisance cardiaque.
+1025,AIDS,SIDA,People living with AIDS face many challenges.,Les personnes vivant avec le VIH font face à de nombreux défis.
+1026,AIDS,SIDA,People living with AIDS face many challenges.,Les personnes vivant avec le VIH font face à de nombreux défis.
+1027,AIDS,SIDA,People living with AIDS face many challenges.,Les personnes qui vivent avec le VIH font face à de nombreux défis.
+1028,AIDS,SIDA,People living with AIDS face many challenges.,Les personnes vivant avec le VIH/sida font face à de nombreux défis.
+1029,AIDS,SIDA,People with AIDS are at risk for serious health complications.,Les personnes atteintes du VIH sont à risque de contracter des complications de santé sérieuses.
+1030,viral pneumonia,pneumonies virales|pneumonie virale,She was diagnosed with viral pneumonia.,Elle a été diagnostiquée avec une pneumonie virale.
+1031,viral pneumonia,pneumonies virales|pneumonie virale,She was hospitalized with viral pneumonia.,Elle a été hospitalisée pour une pneumonie virale.
+1032,viral pneumonia,pneumonies virales|pneumonie virale,She was diagnosed with viral pneumonia.,Elle a été diagnostiquée d'une pneumonie virale.
+1033,viral pneumonia,pneumonies virales|pneumonie virale,She was hospitalized with viral pneumonia.,Elle a été hospitalisée avec une pneumonie virale.
+1034,viral pneumonia,pneumonies virales|pneumonie virale,She was hospitalized with viral pneumonia.,Elle a été hospitalisée pour une pneumonie virale.
+1035,runny nose,nez coule-t-il|nez qui coule,I have a runny nose.,J'ai le nez qui coule.
+1036,runny nose,nez coule-t-il|nez qui coule,I have a runny nose.,J'ai le nez qui coule.
+1037,runny nose,nez coule-t-il|nez qui coule,I have a runny nose.,J'ai le nez qui coule.
+1038,runny nose,nez coule-t-il|nez qui coule,I have a runny nose.,J'ai le nez qui coule.
+1039,runny nose,nez coule-t-il|nez qui coule,I have a runny nose.,J'ai un nez qui coule.
+1040,good respiratory hygiene,bonne hygiène respiratoire,Practicing good respiratory hygiene is important for maintaining good health.,Pratiquer une bonne hygiène respiratoire est important pour maintenir une bonne santé.
+1041,good respiratory hygiene,bonne hygiène respiratoire,Practicing good respiratory hygiene is important for staying healthy.,Pratiquer une bonne hygiène respiratoire est importante pour rester en bonne santé.
+1042,good respiratory hygiene,bonne hygiène respiratoire,Practicing good respiratory hygiene is important for maintaining good health.,Pratiquer une bonne hygiène respiratoire est important pour maintenir une bonne santé.
+1043,good respiratory hygiene,bonne hygiène respiratoire,Practicing good respiratory hygiene is important for maintaining good health.,Pratiquer une bonne hygiène respiratoire est important pour maintenir la bonne santé.
+1044,good respiratory hygiene,bonne hygiène respiratoire,Practicing good respiratory hygiene is important for maintaining good health.,Il est important de pratiquer une bonne hygiène respiratoire pour maintenir une bonne santé.
+1045,virus transmission,transmission du virus,Viruses can be transmitted from person to person.,Les virus peuvent être transmis d'une personne à l'autre.
+1046,virus transmission,transmission du virus,Viruses can be transmitted from one person to another.,Les virus peuvent être transmis d'une personne à l'autre.
+1047,virus transmission,transmission du virus,Viruses can be transmitted from one person to another.,Les virus peuvent être transmis d'une personne à une autre.
+1048,virus transmission,transmission du virus,Viruses can be transmitted from person to person.,Les virus peuvent être transmis d'une personne à l'autre.
+1049,virus transmission,transmission du virus,Viruses can be transmitted from person to person.,Les virus peuvent se transmettre d'une personne à l'autre.
+1050,eye protection,protection des yeux,Wear eye protection to keep your eyes safe.,Portez des lunettes de protection pour protéger vos yeux.
+1051,eye protection,protection des yeux,Wear eye protection to keep your eyes safe.,Portez des protections oculaires pour protéger vos yeux.
+1052,eye protection,protection des yeux,Wear eye protection to keep your eyes safe.,Portez des protections oculaires pour protéger vos yeux.
+1053,eye protection,protection des yeux,Wear eye protection to keep your eyes safe.,Portez des lunettes de protection pour protéger vos yeux.
+1054,eye protection,protection des yeux,Wear eye protection to keep your eyes safe.,Portez une protection oculaire pour protéger vos yeux.
+1055,ventilator,ventilation|ventilateur,I need to get a ventilator to help me breathe.,J'ai besoin d'un ventilateur pour m'aider à respirer.
+1056,ventilator,ventilation|ventilateur,I need to get a ventilator to help me breathe.,J'ai besoin d'obtenir un ventilateur pour m'aider à respirer.
+1057,ventilator,ventilation|ventilateur,I need to get a ventilator to help me breathe.,J'ai besoin d'avoir un ventilateur pour m'aider à respirer.
+1058,ventilator,ventilation|ventilateur,I need to use a ventilator to help me breathe.,J'ai besoin d'utiliser un ventilateur pour m'aider à respirer.
+1059,ventilator,ventilation|ventilateur,The doctor hooked the patient up to a ventilator to help him breathe.,Le médecin a relié le patient à un respirateur pour l'aider à respirer.
+1060,spread of Coronavirus,propagation de coronavirus,The spread of the Coronavirus has been a global concern.,La propagation du Coronavirus est une préoccupation mondiale.
+1061,spread of Coronavirus,propagation de coronavirus,The spread of the Coronavirus has been a global concern.,La propagation du Coronavirus a été une préoccupation mondiale.
+1062,spread of Coronavirus,propagation de coronavirus,The spread of the Coronavirus is causing concern around the world.,La propagation du Coronavirus suscite des inquiétudes dans le monde entier.
+1063,spread of Coronavirus,propagation de coronavirus,The spread of the Coronavirus has been a global concern.,La propagation du coronavirus a suscité des inquiétudes à l'échelle mondiale.
+1064,spread of Coronavirus,propagation de coronavirus,The spread of the Coronavirus has become a global pandemic.,La propagation du coronavirus est devenue une pandémie mondiale.
+1065,positive test,tests positifs|test positif,I received a positive test result.,J'ai reçu un résultat de test positif.
+1066,positive test,tests positifs|test positif,I received a positive test result.,J'ai reçu un résultat positif d'un test.
+1067,positive test,tests positifs|test positif,I received a positive test result.,J'ai reçu un résultat positif à mon test.
+1068,positive test,tests positifs|test positif,I received a positive test result.,J'ai reçu un résultat positif du test.
+1069,positive test,tests positifs|test positif,I received a positive test result.,J'ai reçu un résultat de test positif.
+1070,acute respiratory disease,maladie respiratoire aiguë,She was diagnosed with an acute respiratory disease.,Elle a été diagnostiquée avec une maladie respiratoire aiguë.
+1071,acute respiratory disease,maladie respiratoire aiguë,She was diagnosed with an acute respiratory disease.,Elle a été diagnostiquée avec une maladie respiratoire aiguë.
+1072,acute respiratory disease,maladie respiratoire aiguë,She was diagnosed with an acute respiratory disease.,Elle a été diagnostiquée avec une maladie respiratoire aiguë.
+1073,acute respiratory disease,maladie respiratoire aiguë,She was diagnosed with an acute respiratory disease.,Elle a été diagnostiquée avec une maladie respiratoire aiguë.
+1074,acute respiratory disease,maladie respiratoire aiguë,She was diagnosed with an acute respiratory disease.,Elle a été diagnostiquée avec une maladie respiratoire aiguë.
